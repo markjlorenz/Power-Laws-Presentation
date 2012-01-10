@@ -140,7 +140,6 @@ img{
 	box-shadow: 1px 1px 1px ghostwhite, -1px -1px 1px black;
 }
 pre.sh_sourceCode {
-	background-color:transparent;
 	font-size:150%;
 	text-shadow:none;
 }
