@@ -1,0 +1,171 @@
+table ul, table p{
+	line-height: 1.5em;
+}
+h1{
+	font-size:4.5em;
+}
+h1, h2, h3, .serif{
+	font-family: 'Droid Serif', serif;
+	color: #FFF530;
+}
+td>h1, td>h2, td>h3{
+	margin-top:0;
+	margin-bottom:0;
+}
+td{
+	vertical-align:middle;
+}
+td:not(:first-child){
+	padding-left:1em;
+}
+.bullets > ul > li {
+	text-align: left;
+}
+.content ol, .content ul{
+	list-style: disc;
+}
+table{
+	margin-left:1em;
+	margin-right:1em;
+}
+body{
+	font-family: 'Droid Sans', sans-serif;
+	color:#5A5A5A;
+	background-color:black;
+	/*text-shadow: 1px 1px 1px #404040, -1px -1px -1px black;*/
+	text-shadow: 1px 1px 1px #AAAAAA, -1px -1px -1px black;
+}
+.rotate-ccw{
+	-webkit-transform: rotate(-90deg);
+	-moz-transform: rotate(-90deg);
+}
+
+.xxlarge{
+	font-size:4em;
+	line-height:1.5em;
+}
+.xlarge{
+	font-size:3em;
+	line-height:1.5em;
+}
+.large{
+	font-size:2em;
+	line-height:1.5em;
+}
+.medium{
+	font-size:1.5em;
+	line-height:2.0em;
+}
+.small{
+	font-size:1em;
+	line-height:1.5em;
+}
+.phonetic{
+	font-family: 'Droid Serif', serif;
+}
+.slide{
+	background: 100%, url('images/background.jpg'), repeat-y, center;
+}
+.highlite{
+	color: #FFF530;
+}
+.dark{
+	color:#121212;
+	text-shadow: 1px 1px 1px #404040, -1px -1px -1px black;
+}
+.white, strong{
+	color:gray;
+	text-shadow: 1px 1px 1px #A0A0A0, -1px -1px -1px black;
+}
+.nowrap{
+	white-space:nowrap;
+}
+.align-right{
+	text-align:right;
+}
+.align-left{
+	text-align:left;
+}
+.align-top{
+	vertical-align:top;
+}
+.center{
+}
+tr.two-part>td{
+	width:50%;
+}
+table.full-width{
+	width:100%;
+	margin-left:1em;
+	margin-right:1em;
+}
+ul.natter{
+	margin: 1em;
+	margin-left: 4em;
+	margin-right: 4em;
+	line-height:1.5em;
+	height:5em;
+	text-align:left;
+	color: #121212;
+	color: black;
+	font-weight:bold;
+	/*text-shadow: 1px 1px 1px #A0A0A0, -1px -1px -1px black;*/
+	text-shadow:none;
+}
+ul.natter strong{
+	text-shadow:none;
+}
+ul{
+	display:table;
+	margin-left: auto;
+	margin-right: auto;
+}
+.content{
+	margin-left:1em;
+	margin-right:1em;
+}
+img{
+	width: 725px;
+	height:auto;
+	
+  -webkit-border-radius: 8px; 
+  -moz-border-radius: 8px;
+  border-radius: 8px;
+
+	box-shadow: 1px 1px 1px ghostwhite, -1px -1px 1px black;
+}
+pre.sh_sourceCode {
+	background-color:transparent;
+	font-size:150%;
+	text-shadow:none;
+}
+.code-block-with-sections>pre.sh_sourceCode{
+	margin-top:0;
+	padding-top:0;
+	margin-bottom:0;
+	padding-bottom:0;
+	opacity: 0.2;
+}
+.code-block-with-sections>pre.sh_sourceCode:first-child{
+	padding-top:0.5em;
+}
+.code-block-with-sections>pre.sh_sourceCode:last-child{
+	padding-bottom:0.5em;
+}
+
+ul.biography{
+	margin-top: 1em;
+	font-size: 2em;
+	vertical-align:middle;
+}
+ul.biography>li:last-child{
+	position:relative;
+	vertical-align:text-bottom;
+}
+
+img.dbd-logo{
+	width: 60px;	
+	position:absolute;
+	right:25px;
+	bottom:25px;
+}
