@@ -1,0 +1,65 @@
+Table 10.  Population of the 100 Largest Urban Places:  1870
+
+Source:  U.S. Bureau of the Census
+Internet Release date:  June 15, 1998
+
+--------------------------------------------------------------------------------------------------------------- 
+Rank | Place                             | Population || Rank | Place                             | Population
+--------------------------------------------------------------------------------------------------------------- 
+   1   New York city, NY *................    942,292      51   Springfield city, MA...............     26,703
+   2   Philadelphia city, PA..............    674,022      52   Nashville city, TN.................     25,865
+   3   Brooklyn city, NY *................    396,099      53   Covington city, KY.................     24,505
+   4   St. Louis city, MO.................    310,864      54   Salem city, MA.....................     24,117
+   5   Chicago city, IL...................    298,977      55   Quincy city, IL....................     24,052
+   6   Baltimore city, MD.................    267,354      56   Manchester city, NH................     23,536
+   7   Boston city, MA *..................    250,526      57   Harrisburg city, PA................     23,104
+   8   Cincinnati city, OH................    216,239      58   Trenton city, NJ...................     22,874
+   9   New Orleans city, LA...............    191,418      59   Peoria city, IL....................     22,849
+  10   San Francisco city, CA.............    149,473      60   Evansville city, IN................     21,830
+                                                      
+  11   Buffalo city, NY...................    117,714      61   Atlanta city, GA...................     21,789
+  12   Washington city, DC *..............    109,199      62   New Bedford city, MA...............     21,320
+  13   Newark city, NJ....................    105,059      63   Oswego city, NY....................     20,910
+  14   Louisville city, KY................    100,753      64   Elizabeth city, NJ.................     20,832
+  15   Cleveland city, OH.................     92,829      65   North Providence town, RI *........     20,495
+  16   Pittsburgh city, PA *..............     86,076      66   Hoboken city, NJ...................     20,297
+  17   Jersey City city, NJ...............     82,546      67   Lancaster city, PA.................     20,233
+  18   Detroit city, MI...................     79,577      68   Poughkeepsie city, NY..............     20,080
+  19   Milwaukee city, WI.................     71,440      69   Camden city, NJ....................     20,045
+  20   Albany city, NY....................     69,422      70   Davenport city, IA.................     20,038
+                                                      
+  21   Providence city, RI *..............     68,904      71   St. Paul city, MN..................     20,030
+  22   Rochester city, NY.................     62,386      72   Erie city, PA......................     19,646
+  23   Allegheny city, PA *...............     53,180      73   St. Joseph city, MO................     19,565
+  24   Richmond city, VA..................     51,038      74   Wheeling city, WV..................     19,280
+  25   New Haven city, CT.................     50,840      75   Norfolk city, VA...................     19,229
+  26   Charleston city, SC................     48,956      76   Bridgeport city, CT................     18,969
+  27   Indianapolis city, IN..............     48,244      77   Petersburg city, VA................     18,950
+  28   Troy city, NY......................     46,465      78   Taunton city, MA...................     18,629
+  29   Syracuse city, NY..................     43,051      79   Chelsea city, MA...................     18,547
+  30   Worcester city, MA.................     41,105      80   Dubuque city, IA...................     18,434
+                                                      
+  31   Lowell city, MA....................     40,928      81   Bangor city, ME....................     18,289
+  32   Memphis city, TN...................     40,226      82   Leavenworth city, KS...............     17,873
+  33   Cambridge city, MA.................     39,634      83   Fort Wayne city, IN................     17,718
+  34   Hartford city, CT..................     37,180      84   Springfield city, IL...............     17,364
+  35   Scranton city, PA..................     35,092      85   Auburn city, NY....................     17,225
+  36   Reading city, PA...................     33,930      86   Newburgh city, NY..................     17,014
+  37   Paterson city, NJ..................     33,579      87   Norwich city, CT...................     16,653
+  38   Kansas City city, MO...............     32,260      88   Grand Rapids city, MI..............     16,507
+  39   Mobile city, AL....................     32,034      89   Sacramento city, CA................     16,283
+  40   Toledo city, OH....................     31,584      90   Terre Haute city, IN...............     16,103
+                                                      
+  41   Portland city, ME..................     31,413      91   Omaha city, NE.....................     16,083
+  42   Columbus city, OH..................     31,274      92   Williamsport city, PA..............     16,030
+  43   Wilmington city, DE................     30,841      93   Elmira city, NY....................     15,863
+  44   Dayton city, OH....................     30,473      94   New Albany city, IN................     15,396
+  45   Lawrence city, MA..................     28,921    95-T   Augusta city, GA...................     15,389
+  46   Utica city, NY.....................     28,804    95-T   Gloucester town, MA................     15,389
+  47   Charlestown city, MA *.............     28,323      97   Cohoes city, NY....................     15,357
+  48   Savannah city, GA..................     28,235      98   Newport city, KY...................     15,087
+  49   Lynn city, MA......................     28,233      99   New Brunswick city, NJ.............     15,058
+  50   Fall River city, MA................     26,766     100   Burlington city, IA................     14,930
+--------------------------------------------------------------------------------------------------------------- 
+
+* See Notes for Individual Places.

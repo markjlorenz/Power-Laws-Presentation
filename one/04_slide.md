@@ -10,9 +10,9 @@ Because of the power law, this means **most** products.
 
 
 <!SLIDE center bullets incremental transition=fade>
-#EBay, the Egalitarian Market
+#eBay, the Egalitarian Market
 
-![EBay Coffee](../images/ebay.png)
+![eBay Coffee](../images/ebay.png)
 
 No "Top Sellers", "Staff Picks" or other favoritism, just vintage 1998 web design.
 

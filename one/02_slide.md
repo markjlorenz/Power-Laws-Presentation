@@ -4,6 +4,6 @@
 - Power Laws are **Everywhere**
 - Harnessing the Power for **Personal Gain**
 - Harvesting the Data with **Mechanize**
-- Moving up in the World
+- Power UP, **Increase Your Rank**
 - Massaging the Data with **Ruby**
 - A Word of Caution, **Further Reading**

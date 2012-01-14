@@ -1,0 +1,65 @@
+Table 11.  Population of the 100 Largest Urban Places:  1880
+
+Source:  U.S. Bureau of the Census
+Internet Release date:  June 15, 1998
+
+--------------------------------------------------------------------------------------------------------------- 
+Rank | Place                             | Population || Rank | Place                             | Population
+--------------------------------------------------------------------------------------------------------------- 
+   1   New York city, NY *................  1,206,299      51   Oakland city, CA...................     34,555
+   2   Philadelphia city, PA..............    847,170      52   Utica city, NY.....................     33,914
+   3   Brooklyn city, NY *................    566,663      53   Portland city, ME..................     33,810
+   4   Chicago city, IL...................    503,185      54   Memphis city, TN...................     33,592
+   5   Boston city, MA *..................    362,839      55   Springfield city, MA...............     33,340
+   6   St. Louis city, MO.................    350,518      56   Manchester city, NH................     32,630
+   7   Baltimore city, MD.................    332,313      57   St. Joseph city, MO................     32,431
+   8   Cincinnati city, OH................    255,139      58   Grand Rapids city, MI..............     32,016
+   9   San Francisco city, CA.............    233,959      59   Hoboken city, NJ...................     30,999
+  10   New Orleans city, LA...............    216,090      60   Harrisburg city, NJ................     30,762
+                                                      
+  11   Cleveland city, OH.................    160,146      61   Wheeling city, WV..................     30,737
+  12   Pittsburgh city, PA *..............    156,389      62   Savannah city, GA..................     30,709
+  13   Buffalo city, NY...................    155,134      63   Omaha city, NE.....................     30,518
+  14   Washington city, DC *..............    147,293      64   Trenton city, NJ...................     29,910
+  15   Newark city, NJ....................    136,508      65   Covington city, KY.................     29,720
+  16   Louisville city, KY................    123,758      66   Evansville city, IN................     29,280
+  17   Jersey City city, NJ...............    120,722      67   Peoria city, IL....................     29,259
+  18   Detroit city, MI...................    116,340      68   Mobile city, AL....................     29,132
+  19   Milwaukee city, WI.................    115,587      69   Elizabeth city, NJ.................     28,229
+  20   Providence city, RI *..............    104,857      70   Erie city, PA......................     27,737
+                                                      
+  21   Albany city, NY....................     90,758      71   Bridgeport city, CT................     27,643
+  22   Rochester city, NY.................     89,366      72   Salem city, MA.....................     27,563
+  23   Allegheny city, PA *...............     78,682      73   Quincy city, IL....................     27,268
+  24   Indianapolis city, IN..............     75,056      74   Fort Wayne city, IN................     26,880
+  25   Richmond city, VA..................     63,600      75   New Bedford city, MA...............     26,845
+  26   New Haven city, CT.................     62,882      76   Terre Haute city, IN...............     26,042
+  27   Lowell city, MA....................     59,475      77   Lancaster city, PA.................     25,769
+  28   Worcester city, MA.................     58,291      78   Somerville city, MA................     24,933
+  29   Troy city, NY......................     56,747      79   Wilkes-Barre city, PA..............     23,339
+  30   Kansas City city, MO...............     55,785      80   Des Moines city, IA................     22,408
+                                                      
+  31   Cambridge city, MA.................     52,669      81   Dubuque city, IA...................     22,254
+  32   Syracuse city, NY..................     51,792      82   Galveston city, TX.................     22,248
+  33   Columbus city, OH..................     51,647      83   Norfolk city, VA...................     21,966
+  34   Paterson city, NJ..................     51,031      84   Auburn city, NY....................     21,924
+  35   Toledo city, OH....................     50,137      85   Holyoke city, MA...................     21,915
+  36   Charleston city, SC................     49,984      86   Augusta city, GA...................     21,891
+  37   Fall River city, MA................     48,961      87   Davenport city, IA.................     21,831
+  38   Minneapolis city, MN...............     46,887      88   Chelsea city, MA...................     21,782
+  39   Scranton city, PA..................     45,850      89   Petersburg city, VA................     21,656
+  40   Nashville city, TN.................     43,350      90   Sacramento city, CA................     21,420
+                                                      
+  41   Reading city, PA...................     43,278      91   Taunton city, MA...................     21,213
+  42   Wilmington city, DE................     42,478      92   Oswego city, NY....................     21,116
+  43   Hartford city, CT..................     42,015      93   Salt Lake City city, UT............     20,768
+  44   Camden city, NJ....................     41,659      94   Springfield city, OH...............     20,730
+  45   St. Paul city, MN..................     41,473      95   Bay City city, MI..................     20,693
+  46   Lawrence city, MA..................     39,151      96   San Antonio city, TX...............     20,550
+  47   Dayton city, OH....................     38,678      97   Elmira city, NY....................     20,541
+  48   Lynn city, MA......................     38,274      98   Newport city, KY...................     20,433
+  49   Atlanta city, GA...................     37,409      99   Poughkeepsie city, NY..............     20,207
+  50   Denver city, CO....................     35,629     100   Springfield city, IL...............     19,743
+--------------------------------------------------------------------------------------------------------------- 
+
+* See Notes for Individual Places.

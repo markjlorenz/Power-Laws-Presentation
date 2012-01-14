@@ -1,0 +1,124 @@
+Table 19.  Population of the 100 Largest Urban Places:  1960
+
+Source:  U.S. Bureau of the Census
+Internet Release date:  June 15, 1998
+
+--------------------------------------------------------------- 
+      |                          |          |       |  Density
+      |                          |          |   Land| (average
+      |                          |          |   area|  popula-
+      |                          |          |   (sq.| tion per
+ Rank | Place                    |Population| miles)|sq. mile)
+--------------------------------------------------------------- 
+    1   New York city, NY *......  7,781,984   315.1    24,697
+    2   Chicago city, IL.........  3,550,404   224.2    15,836
+    3   Los Angeles city, CA.....  2,479,015   454.8     5,451
+    4   Philadelphia city, PA....  2,002,512   127.2    15,743
+    5   Detroit city, MI.........  1,670,144   139.6    11,964
+    6   Baltimore city, MD.......    939,024    79.0    11,886
+    7   Houston city, TX.........    938,219   328.1     2,860
+    8   Cleveland city, OH.......    876,050    81.2    10,789
+    9   Washington city, DC......    763,956    61.4    12,442
+   10   St. Louis city, MO.......    750,026    61.0    12,296
+
+   11   Milwaukee city, WI.......    741,324    91.1     8,137
+   12   San Francisco city, CA...    740,316    47.6    15,553
+   13   Boston city, MA..........    697,197    47.8    14,586
+   14   Dallas city, TX..........    679,684   279.9     2,428
+   15   New Orleans city, LA.....    627,525   198.8     3,157
+   16   Pittsburgh city, PA......    604,332    54.1    11,171
+   17   San Antonio city, TX.....    587,718   160.5     3,662
+   18   San Diego city, CA.......    573,224   192.4     2,979
+   19   Seattle city, WA.........    557,087    88.5     6,295
+   20   Buffalo city, NY.........    532,759    39.4    13,522
+
+   21   Cincinnati city, OH......    502,550    77.3     6,501
+   22   Memphis city, TN.........    497,524   128.2     3,881
+   23   Denver city, CO..........    493,887    71.0     6,956
+   24   Atlanta city, GA.........    487,455   128.2     3,802
+   25   Minneapolis city, MN.....    482,872    56.5     8,546
+   26   Indianapolis city, IN....    476,258    71.2     6,689
+   27   Kansas City city, MO.....    475,539   129.8     3,664
+   28   Columbus city, OH........    471,316    89.0     5,296
+   29   Phoenix city, AZ.........    439,170   187.4     2,343
+   30   Newark city, NJ..........    405,220    23.6    17,170
+
+   31   Louisville city, KY......    390,639    57.1     6,841
+   32   Portland city, OR........    372,676    67.2     5,546
+   33   Oakland city, CA.........    367,548    53.0     6,935
+   34   Fort Worth city, TX......    356,268   140.5     2,536
+   35   Long Beach city, CA......    344,168    45.9     7,498
+   36   Birmingham city, AL......    340,887    74.5     4,576
+   37   Oklahoma City city, OK...    324,253   321.5     1,009
+   38   Rochester city, NY.......    318,611    36.4     8,753
+   39   Toledo city, OH..........    318,003    48.2     6,598
+   40   St. Paul city, MN........    313,411    52.2     6,004
+
+   41   Norfolk city, VA.........    305,872    50.0     6,117
+   42   Omaha city, NE...........    301,598    51.2     5,891
+   43   Honolulu CDP, HI *.......    294,194    83.9     3,506
+   44   Miami city, FL...........    291,688    34.2     8,529
+   45   Akron city, OH...........    290,351    53.9     5,387
+   46   El Paso city, TX.........    276,687   114.6     2,414
+   47   Jersey City city, NJ.....    276,101    13.0    21,239
+   48   Tampa city, FL...........    274,970    85.0     3,235
+   49   Dayton city, OH..........    262,332    33.6     7,808
+   50   Tulsa city, OK...........    261,685    47.8     5,475
+
+   51   Wichita city, KS.........    254,698    51.9     4,907
+   52   Richmond city, VA........    219,958    37.0     5,945
+   53   Syracuse city, NY........    216,038    25.0     8,642
+   54   Tucson city, AZ..........    212,892    70.9     3,003
+   55   Des Moines city, IA......    208,982    64.5     3,240
+   56   Providence city, RI......    207,498    17.9    11,592
+   57   San Jose city, CA........    204,196    54.5     3,747
+   58   Mobile city, AL..........    202,779   152.9     1,326
+   59   Charlotte city, NC.......    201,564    64.8     3,111
+   60   Albuquerque city, NM.....    201,189    56.2     3,580
+
+   61   Jacksonville city, FL....    201,030    30.2     6,657
+   62   Flint city, MI...........    196,940    29.9     6,587
+   63   Sacramento city, CA......    191,667    45.1     4,250
+   64   Yonkers city, NY.........    190,634    18.3    10,417
+   65   Salt Lake City city, UT..    189,454    56.1     3,377
+   66   Worcester city, MA.......    186,587    37.0     5,043
+   67   Austin city, TX..........    186,545    49.4     3,776
+   68   Spokane city, WA.........    181,608    43.0     4,223
+   69   St. Petersburg city, FL..    181,298    54.0     3,357
+   70   Gary city, IN............    178,320    41.6     4,287
+
+   71   Grand Rapids city, MI....    177,313    24.4     7,267
+   72   Springfield city, MA.....    174,463    33.1     5,271
+   73   Nashville city, TN.......    170,874    29.0     5,892
+   74   Corpus Christi city, TX..    167,690    37.8     4,436
+   75   Youngstown city, OH......    166,689    33.2     5,021
+   76   Shreveport city, LA......    164,372    36.0     4,566
+   77   Arlington CDP, VA *......    163,401    24.0     6,808
+   78   Hartford city, CT........    162,178    17.4     9,321
+   79   Fort Wayne city, IN......    161,776    36.8     4,396
+   80   Bridgeport city, CT......    156,748    17.9     8,757
+
+   81   Baton Rouge city, LA.....    152,419    31.0     4,917
+   82   New Haven city, CT.......    152,048    17.9     8,494
+   83   Savannah city GA.........    149,245    41.5     3,596
+   84   Tacoma city WA...........    147,979    47.5     3,115
+   85   Jackson city, MS.........    144,422    46.5     3,106
+   86   Paterson city, NJ........    143,663     8.4    17,103
+   87   Evansville city, IN......    141,543    32.0     4,423
+   88   Erie city, PA............    138,440    18.8     7,364
+   89   Amarillo city, TX........    137,969    54.8     2,518
+   90   Montgomery city, AL......    134,393    31.8     4,226
+
+   91   Fresno city, CA..........    133,929    28.6     4,683
+   92   South Bend city, IN......    132,445    23.8     5,565
+   93   Chattanooga city, TN.....    130,009    36.7     3,542
+   94   Albany city, NY..........    129,726    19.0     6,828
+   95   Lubbock city, TX.........    128,691    75.0     1,716
+   96   Lincoln city, NE.........    128,521    25.4     5,060
+ 97-T   Madison city, WI.........    126,706    35.7     3,549
+ 97-T   Rockford city, IL........    126,706    26.0     4,873
+   99   Kansas City city, KS.....    121,901    40.6     3,002
+  100   Greensboro city, NC......    119,574    48.6     2,460
+--------------------------------------------------------------- 
+
+*See Notes for Individual Places.

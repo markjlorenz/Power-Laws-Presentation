@@ -1,0 +1,1503 @@
+1910,1,New York city NY,4766883,0
+1910,2,Chicago city IL,2185283,0
+1910,3,Philadelphia city PA,1549008,0
+1910,4,St Louis city MO,687029,-2
+1910,5,Boston city MA,670585,-2
+1910,6,Cleveland city OH,560663,1
+1910,7,Baltimore city MD,558485,-1
+1910,8,Pittsburgh city PA,533905,-1
+1910,9,Detroit city MI,465766,5
+1910,10,Buffalo city NY,423715,-1
+1910,11,San Francisco city CA,416912,-1
+1910,12,Milwaukee city WI,373857,-1
+1910,13,Cincinnati city OH,363591,-3
+1910,14,Newark city NJ,347469,-1
+1910,15,New Orleans city LA,339075,-2
+1910,16,Washington city DC,331069,2
+1910,17,Los Angeles city CA,319198,7
+1910,18,Minneapolis city MN,301408,0
+1910,19,Jersey City city NJ,267779,-3
+1910,20,Kansas City city MO,248381,1
+1910,21,Seattle city WA,237194,1
+1910,22,Indianapolis city IN,233650,1
+1910,23,Providence city RI,224326,-4
+1910,24,Louisville city KY,223928,-5
+1910,25,Rochester city NY,218149,2
+1910,26,St Paul city MN,214744,-4
+1910,27,Denver city CO,213381,2
+1910,28,Portland city OR,207214,4
+1910,29,Columbus city OH,181511,1
+1910,30,Toledo city OH,168497,4
+1910,31,Atlanta city GA,154839,-2
+1910,32,Oakland city CA,150174,1
+1910,33,Worcester city MA,145986,-2
+1910,34,Syracuse city NY,137249,-3
+1910,35,New Haven city CT,133605,-4
+1910,36,Birmingham city AL,132685,0
+1910,37,Memphis city TN,131105,-3
+1910,38,Scranton city PA,129867,-9
+1910,39,Richmond city VA,127628,1
+1910,40,Paterson city NJ,125600,-9
+1910,41,Omaha city NE,124096,7
+1910,42,Fall River city MA,119295,-12
+1910,43,Dayton city OH,116577,0
+1910,44,Grand Rapids city MI,112571,-4
+1910,45,Nashville city TN,110364,-11
+1910,46,Lowell city MA,106294,-15
+1910,47,Cambridge city MA,104839,-16
+1910,48,Spokane city WA,104402,-18
+1910,49,Bridgeport city CT,102054,5
+1910,50,Albany city NY,100253,-10
+1910,51,Hartford city CT,98915,5
+1910,52,Trenton city NJ,96815,-3
+1910,53,New Bedford city MA,96652,0
+1910,54,San Antonio city TX,96614,13
+1910,55,Reading city PA,96071,-9
+1910,56,Camden city NJ,94538,-2
+1910,57,Salt Lake City city UT,92777,0
+1910,58,Dallas city TX,92104,16
+1910,59,Lynn city MA,89336,-42
+1910,60,Springfield city MA,88926,9
+1910,61,Wilmington city DE,87411,-1
+1910,62,Des Moines city IA,86368,10
+1910,63,Lawrence city MA,85892,-10
+1910,64,Tacoma city WA,83743,-7
+1910,65,Kansas City city KS,82331,-2
+1910,66,Yonkers city NY,79803,-2
+1910,67,Youngstown city PA,79066,-34
+1910,68,Houston city TX,78800,23
+1910,69,Duluth city MN,78466,-1
+1910,70,St Joseph city MO,77403,-17
+1910,71,Somerville city MA,77236,-5
+1910,72,Troy city NY,76813,-26
+1910,73,Utica city NY,74419,-1
+1910,74,Elizabeth city NJ,73409,2
+1910,75,Fort Worth city TX,73312,10
+1910,76,Waterbury city CT,73141,-1
+1910,77,Schenectady city NY,72826,-4
+1910,78,Hoboken city NJ,70324,-23
+1910,79,Manchester city NH,70063,-7
+1910,80,Evansville city IN,69647,-21
+1910,81,Akron city OH,69067,49
+1910,82,Norfolk city VA,67452,23
+1910,83,Wilkes-Barre city PA,67105,-11
+1910,84,Peoria city IL,66950,-7
+1910,85,Erie city PA,66525,10
+1910,86,Savannah city GA,65064,1
+1910,87,Oklahoma City city OK,64205,7
+1910,88,Harrisburg city PA,64186,-4
+1910,89,Fort Wayne city IN,63933,6
+1910,90,Charleston city SC,58833,-11
+1910,91,Portland city ME,58571,-10
+1910,92,East St Louis city IL,58547,-9
+1910,93,Terre Haute city IN,58157,-8
+1910,94,Holyoke city MA,57730,-7
+1910,95,Jacksonville city FL,57699,16
+1910,96,Brockton city MA,56878,-5
+1910,97,Bayonne city NJ,55545,7
+1910,98,Johnstown city PA,55482,-3
+1910,99,Passaic city NJ,54773,-2
+1910,100,South Bend city IN,53684,0
+,101,Youngstown city OH,,51
+,101,Lynn city LA,,32
+,101,Flint city MI,,23
+,101,Canton city OH,,19
+,101,Knoxville city TN,,13
+,101,El Paso city TX,,12
+,101,San Diego city CA,,8
+,101,Allentown city PA,,6
+,101,Wichita city KS,,5
+,101,Tulsa city OK,,4
+,101,Sioux City city IA,,2
+,101,Long Beach city CA,,0
+,101,Patterson city NJ,,0
+,101,Chattanooga city TN,,0
+,101,Miami city FL,,0
+,101,South Bend IN,,0
+,101,Tampa city FL,,0
+,101,Gary city IN,,0
+,101,Sacramento city CA,,0
+,101,Rockford city IL,,0
+,101,Charlotte city NC,,0
+,101,Shreveport city LA,,0
+,101,Little Rock city AR,,0
+,101,Arlington CDP VA,,0
+,101,Austin city TX,,0
+,101,Mobile city AL,,0
+,101,Baton Rouge city LA,,0
+,101,Berkeley city CA,,0
+,101,Corpus Christi city TX,,0
+,101,Phoenix city AZ,,0
+,101,Honolulu CDP HI,,0
+,101,Tucson city AZ,,0
+,101,San Jose city CA,,0
+,101,Albuquerque city NM,,0
+,101,St Petersburg city FL,,0
+,101,Jackson city MS,,0
+,101,Amarillo city TX,,0
+,101,Montgomery city AL,,0
+,101,Fresno city CA,,0
+,101,Lubbock city TX,,0
+,101,Lincoln city NE,,0
+,101,Madison city WI,,0
+,101,Greensboro city NC,,0
+,101,Nashville-Davidson TN,,0
+,101,Warren city MI,,0
+,101,Virginia Beach city VA,,0
+,101,Anaheim city CA,,0
+,101,Santa Ana city CA,,0
+,101,Columbus city GA,,0
+,101,Riverside city CA,,0
+,101,Fort Lauderdale city FL,,0
+,101,Colorado Springs city CO,,0
+,101,Lexington-Fayette KY,,0
+,101,Anchorage city AK,,0
+,101,Huntington Beach city CA,,0
+,101,Las Vegas city NV,,0
+,101,Metairie CDP LA,,0
+,101,Arlington city TX,,0
+,101,Aurora city CO,,0
+,101,Mesa city AZ,,0
+,101,Stockton city CA,,0
+,101,Raleigh city NC,,0
+,101,Hialeah city FL,,0
+,101,Garland city TX,,0
+,101,Glendale city CA,,0
+,101,Bakersfield city CA,,0
+,101,Fremont city CA,,0
+1920,1,New York city NY,5620048,0
+1920,2,Chicago city IL,2701705,0
+1920,3,Philadelphia city PA,1823779,0
+1920,6,St Louis city MO,772897,-1
+1920,7,Boston city MA,748060,-2
+1920,5,Cleveland city OH,796841,-1
+1920,8,Baltimore city MD,733826,0
+1920,9,Pittsburgh city PA,588343,-1
+1920,4,Detroit city MI,993078,0
+1920,11,Buffalo city NY,506775,-2
+1920,12,San Francisco city CA,506676,1
+1920,13,Milwaukee city WI,457147,1
+1920,16,Cincinnati city OH,401247,-1
+1920,15,Newark city NJ,414524,-3
+1920,17,New Orleans city LA,387219,1
+1920,14,Washington city DC,437571,0
+1920,10,Los Angeles city CA,576673,5
+1920,18,Minneapolis city MN,380582,3
+1920,22,Jersey City city NJ,298103,-1
+1920,19,Kansas City city MO,324410,0
+1920,20,Seattle city WA,315312,0
+1920,21,Indianapolis city IN,314194,0
+1920,27,Providence city RI,237595,-10
+1920,29,Louisville city KY,234891,5
+1920,23,Rochester city NY,295750,1
+1920,30,St Paul city MN,234698,-1
+1920,25,Denver city CO,256491,-4
+1920,24,Portland city OR,258288,-1
+1920,28,Columbus city OH,237031,0
+1920,26,Toledo city OH,243164,-1
+1920,33,Atlanta city GA,200616,1
+1920,31,Oakland city CA,216261,1
+1920,35,Worcester city MA,179754,-7
+1920,37,Syracuse city NY,171717,-3
+1920,39,New Haven city CT,162537,-10
+1920,36,Birmingham city AL,178806,2
+1920,40,Memphis city TN,162351,4
+1920,47,Scranton city PA,137783,-8
+1920,38,Richmond city VA,171667,-6
+1920,49,Paterson city NJ,135875,-52
+1920,34,Omaha city NE,191601,-5
+1920,54,Fall River city MA,120485,-17
+1920,43,Dayton city OH,152559,2
+1920,48,Grand Rapids city MI,137634,2
+1920,56,Nashville city TN,118342,5
+1920,61,Lowell city MA,112759,-32
+1920,63,Cambridge city MA,109694,-11
+1920,66,Spokane city WA,104437,-4
+1920,44,Bridgeport city CT,143555,-10
+1920,60,Albany city NY,113344,-4
+1920,46,Hartford city CT,138036,-1
+1920,55,Trenton city NJ,119289,-10
+1920,53,New Bedford city MA,121217,-22
+1920,41,San Antonio city TX,161379,3
+1920,64,Reading city PA,107784,-12
+1920,58,Camden city NJ,116309,-10
+1920,57,Salt Lake City city UT,118110,-2
+1920,42,Dallas city TX,158976,9
+,101,Lynn city MA,,14
+1920,51,Springfield city MA,129614,-1
+1920,62,Wilmington city DE,110168,-18
+1920,52,Des Moines city IA,126468,-4
+1920,73,Lawrence city MA,94270,-28
+1920,71,Tacoma city WA,96965,-8
+1920,67,Kansas City city KS,101177,1
+1920,68,Yonkers city NY,100176,7
+,101,Youngstown city PA,,0
+1920,45,Houston city TX,138276,19
+1920,70,Duluth city MN,98917,-20
+1920,87,St Joseph city MO,77939,-14
+1920,76,Somerville city MA,93091,-9
+1920,98,Troy city NY,71996,-3
+1920,74,Utica city NY,94156,-15
+1920,72,Elizabeth city NJ,95783,-1
+1920,65,Fort Worth city TX,106482,17
+1920,77,Waterbury city CT,91715,-17
+1920,81,Schenectady city NY,88723,-14
+,101,Hoboken city NJ,,0
+1920,86,Manchester city NH,78384,-15
+,101,Evansville city IN,,13
+1920,32,Akron city OH,208435,-3
+1920,59,Norfolk city VA,115777,-3
+1920,94,Wilkes-Barre city PA,73833,-5
+1920,91,Peoria city IL,76121,9
+1920,75,Erie city PA,93372,6
+1920,85,Savannah city GA,83252,-16
+1920,80,Oklahoma City city OK,91295,37
+1920,92,Harrisburg city PA,75917,-9
+1920,83,Fort Wayne city IN,86549,11
+,101,Charleston city SC,,0
+,101,Portland city ME,,0
+,101,East St Louis city IL,,0
+,101,Terre Haute city IN,,0
+,101,Holyoke city MA,,0
+1920,79,Jacksonville city FL,91558,16
+,101,Brockton city MA,,0
+1920,90,Bayonne city NJ,76754,-8
+,101,Johnstown city PA,,0
+,101,Passaic city NJ,,0
+1920,100,South Bend city IN,70983,-1
+1920,50,Youngstown city OH,132358,5
+1920,69,Lynn city LA,99148,-32
+1920,78,Flint city MI,91599,28
+1920,82,Canton city OH,87091,-1
+1920,88,Knoxville city TN,77818,7
+1920,89,El Paso city TX,77560,3
+1920,93,San Diego city CA,74683,40
+1920,95,Allentown city PA,73502,-2
+1920,96,Wichita city KS,72217,19
+1920,97,Tulsa city OK,72075,39
+1920,99,Sioux City city IA,71227,-2
+,101,Long Beach city CA,,44
+,101,Patterson city NJ,,41
+,101,Chattanooga city TN,,34
+,101,Miami city FL,,23
+,101,South Bend IN,,17
+,101,Tampa city FL,,10
+,101,Gary city IN,,9
+,101,Sacramento city CA,,5
+,101,Rockford city IL,,1
+,101,Charlotte city NC,,0
+,101,Shreveport city LA,,0
+,101,Little Rock city AR,,0
+,101,Arlington CDP VA,,0
+,101,Austin city TX,,0
+,101,Mobile city AL,,0
+,101,Baton Rouge city LA,,0
+,101,Berkeley city CA,,0
+,101,Corpus Christi city TX,,0
+,101,Phoenix city AZ,,0
+,101,Honolulu CDP HI,,0
+,101,Tucson city AZ,,0
+,101,San Jose city CA,,0
+,101,Albuquerque city NM,,0
+,101,St Petersburg city FL,,0
+,101,Jackson city MS,,0
+,101,Amarillo city TX,,0
+,101,Montgomery city AL,,0
+,101,Fresno city CA,,0
+,101,Lubbock city TX,,0
+,101,Lincoln city NE,,0
+,101,Madison city WI,,0
+,101,Greensboro city NC,,0
+,101,Nashville-Davidson TN,,0
+,101,Warren city MI,,0
+,101,Virginia Beach city VA,,0
+,101,Anaheim city CA,,0
+,101,Santa Ana city CA,,0
+,101,Columbus city GA,,0
+,101,Riverside city CA,,0
+,101,Fort Lauderdale city FL,,0
+,101,Colorado Springs city CO,,0
+,101,Lexington-Fayette KY,,0
+,101,Anchorage city AK,,0
+,101,Huntington Beach city CA,,0
+,101,Las Vegas city NV,,0
+,101,Metairie CDP LA,,0
+,101,Arlington city TX,,0
+,101,Aurora city CO,,0
+,101,Mesa city AZ,,0
+,101,Stockton city CA,,0
+,101,Raleigh city NC,,0
+,101,Hialeah city FL,,0
+,101,Garland city TX,,0
+,101,Glendale city CA,,0
+,101,Bakersfield city CA,,0
+,101,Fremont city CA,,0
+1930,1,New York city NY,6930446,0
+1930,2,Chicago city IL,3376438,0
+1930,3,Philadelphia city PA,1950961,0
+1930,7,St Louis city MO,821960,-1
+1930,9,Boston city MA,781188,0
+1930,6,Cleveland city OH,900429,0
+1930,8,Baltimore city MD,804874,1
+1930,10,Pittsburgh city PA,669817,0
+1930,4,Detroit city MI,1568662,0
+1930,13,Buffalo city NY,573076,-1
+1930,11,San Francisco city CA,634394,-1
+1930,12,Milwaukee city WI,578249,-1
+1930,17,Cincinnati city OH,451160,0
+1930,18,Newark city NJ,442337,0
+1930,16,New Orleans city LA,458762,1
+1930,14,Washington city DC,486869,3
+1930,5,Los Angeles city CA,1238048,0
+1930,15,Minneapolis city MN,464356,-1
+1930,23,Jersey City city NJ,316715,-7
+1930,19,Kansas City city MO,399746,0
+1930,20,Seattle city WA,365583,-2
+1930,21,Indianapolis city IN,364161,1
+1930,37,Providence city RI,252981,0
+1930,24,Louisville city KY,307745,-1
+1930,22,Rochester city NY,328132,-1
+1930,31,St Paul city MN,271606,-2
+1930,29,Denver city CO,287861,5
+1930,25,Portland city OR,301815,-2
+1930,28,Columbus city OH,290564,2
+1930,27,Toledo city OH,290718,-7
+1930,32,Atlanta city GA,270366,4
+1930,30,Oakland city CA,284063,1
+1930,42,Worcester city MA,195311,-2
+1930,40,Syracuse city NY,209326,-1
+1930,49,New Haven city CT,162655,-5
+1930,34,Birmingham city AL,259678,-1
+1930,36,Memphis city TN,253143,4
+1930,55,Scranton city PA,143433,-8
+1930,44,Richmond city VA,182929,-1
+,101,Paterson city NJ,,37
+1930,39,Omaha city NE,214006,0
+1930,71,Fall River city MA,115274,-2
+1930,41,Dayton city OH,200982,1
+1930,46,Grand Rapids city MI,168592,-6
+1930,51,Nashville city TN,153866,1
+1930,93,Lowell city MA,100234,5
+1930,74,Cambridge city MA,113643,-4
+1930,70,Spokane city WA,115514,2
+1930,54,Bridgeport city CT,146716,-5
+1930,64,Albany city NY,127412,-1
+1930,47,Hartford city CT,164072,-4
+1930,65,Trenton city NJ,123356,-2
+1930,75,New Bedford city MA,112597,-5
+1930,38,San Antonio city TX,231542,2
+1930,76,Reading city PA,111171,-3
+1930,68,Camden city NJ,118700,-3
+1930,59,Salt Lake City city UT,140267,2
+1930,33,Dallas city TX,260475,2
+1930,87,Lynn city MA,102320,-8
+1930,52,Springfield city MA,149900,-6
+1930,80,Wilmington city DE,106597,5
+1930,56,Des Moines city IA,142559,1
+,101,Lawrence city MA,,0
+1930,79,Tacoma city WA,106817,-3
+1930,66,Kansas City city KS,121857,-3
+1930,61,Yonkers city NY,134646,0
+,101,Youngstown city PA,,0
+1930,26,Houston city TX,292352,5
+1930,90,Duluth city MN,101463,0
+,101,St Joseph city MO,,0
+1930,85,Somerville city MA,103908,-2
+,101,Troy city NY,,0
+1930,89,Utica city NY,101740,-3
+1930,73,Elizabeth city NJ,114589,-8
+1930,48,Fort Worth city TX,163447,2
+1930,94,Waterbury city CT,99902,1
+1930,95,Schenectady city NY,95692,-6
+,101,Hoboken city NJ,,0
+,101,Manchester city NH,,0
+1930,88,Evansville city IN,102249,-8
+1930,35,Akron city OH,255040,-3
+1930,62,Norfolk city VA,129710,2
+1930,99,Wilkes-Barre city PA,86626,-2
+1930,82,Peoria city IL,104969,-4
+1930,69,Erie city PA,115967,-3
+,101,Savannah city GA,,2
+1930,43,Oklahoma City city OK,185389,1
+,101,Harrisburg city PA,,0
+1930,72,Fort Wayne city IN,114946,2
+,101,Charleston city SC,,0
+,101,Portland city ME,,0
+,101,East St Louis city IL,,0
+,101,Terre Haute city IN,,0
+,101,Holyoke city MA,,0
+1930,63,Jacksonville city FL,129549,16
+,101,Brockton city MA,,0
+1930,98,Bayonne city NJ,88979,-3
+,101,Johnstown city PA,,0
+,101,Passaic city NJ,,0
+,101,South Bend city IN,,12
+1930,45,Youngstown city OH,170002,-4
+,101,Lynn city LA,,0
+1930,50,Flint city MI,156492,-6
+1930,83,Canton city OH,104906,0
+1930,81,Knoxville city TN,105802,4
+1930,86,El Paso city TX,102421,-12
+1930,53,San Diego city CA,147995,10
+1930,97,Allentown city PA,92563,0
+1930,77,Wichita city KS,111110,3
+1930,58,Tulsa city OK,141258,-4
+,101,Sioux City city IA,,0
+1930,57,Long Beach city CA,142032,4
+1930,60,Patterson city NJ,138513,-41
+1930,67,Chattanooga city TN,119798,1
+1930,78,Miami city FL,110637,30
+1930,84,South Bend IN,104193,-17
+1930,91,Tampa city FL,101161,7
+1930,92,Gary city IN,100426,16
+1930,96,Sacramento city CA,93750,11
+1930,100,Rockford city IL,85864,-1
+,101,Charlotte city NC,,10
+,101,Shreveport city LA,,7
+,101,Little Rock city AR,,1
+,101,Arlington CDP VA,,0
+,101,Austin city TX,,0
+,101,Mobile city AL,,0
+,101,Baton Rouge city LA,,0
+,101,Berkeley city CA,,0
+,101,Corpus Christi city TX,,0
+,101,Phoenix city AZ,,0
+,101,Honolulu CDP HI,,0
+,101,Tucson city AZ,,0
+,101,San Jose city CA,,0
+,101,Albuquerque city NM,,0
+,101,St Petersburg city FL,,0
+,101,Jackson city MS,,0
+,101,Amarillo city TX,,0
+,101,Montgomery city AL,,0
+,101,Fresno city CA,,0
+,101,Lubbock city TX,,0
+,101,Lincoln city NE,,0
+,101,Madison city WI,,0
+,101,Greensboro city NC,,0
+,101,Nashville-Davidson TN,,0
+,101,Warren city MI,,0
+,101,Virginia Beach city VA,,0
+,101,Anaheim city CA,,0
+,101,Santa Ana city CA,,0
+,101,Columbus city GA,,0
+,101,Riverside city CA,,0
+,101,Fort Lauderdale city FL,,0
+,101,Colorado Springs city CO,,0
+,101,Lexington-Fayette KY,,0
+,101,Anchorage city AK,,0
+,101,Huntington Beach city CA,,0
+,101,Las Vegas city NV,,0
+,101,Metairie CDP LA,,0
+,101,Arlington city TX,,0
+,101,Aurora city CO,,0
+,101,Mesa city AZ,,0
+,101,Stockton city CA,,0
+,101,Raleigh city NC,,0
+,101,Hialeah city FL,,0
+,101,Garland city TX,,0
+,101,Glendale city CA,,0
+,101,Bakersfield city CA,,0
+,101,Fremont city CA,,0
+1940,1,New York city NY,7454995,0
+1940,2,Chicago city IL,3396808,0
+1940,3,Philadelphia city PA,1931334,0
+1940,8,St Louis city MO,816048,0
+1940,9,Boston city MA,770816,-1
+1940,6,Cleveland city OH,878336,-1
+1940,7,Baltimore city MD,859100,1
+1940,10,Pittsburgh city PA,671659,-2
+1940,4,Detroit city MI,1623452,-1
+1940,14,Buffalo city NY,575901,-1
+1940,12,San Francisco city CA,634536,1
+1940,13,Milwaukee city WI,587472,0
+1940,17,Cincinnati city OH,455610,-1
+1940,18,Newark city NJ,429760,-3
+1940,15,New Orleans city LA,494537,-1
+1940,11,Washington city DC,663091,2
+1940,5,Los Angeles city CA,1504277,1
+1940,16,Minneapolis city MN,492370,-1
+1940,30,Jersey City city NJ,301173,-7
+1940,19,Kansas City city MO,399178,-1
+1940,22,Seattle city WA,368302,3
+1940,20,Indianapolis city IN,386972,-3
+1940,37,Providence city RI,253504,-6
+1940,25,Louisville city KY,319077,-5
+1940,23,Rochester city NY,324975,-9
+1940,33,St Paul city MN,287736,-2
+1940,24,Denver city CO,322412,0
+1940,27,Portland city OR,305394,-2
+1940,26,Columbus city OH,306087,-2
+1940,34,Toledo city OH,282349,-2
+1940,28,Atlanta city GA,302288,-5
+1940,29,Oakland city CA,302163,2
+1940,44,Worcester city MA,193694,-6
+1940,41,Syracuse city NY,205967,-6
+1940,54,New Haven city CT,160605,-5
+1940,35,Birmingham city AL,267583,1
+1940,32,Memphis city TN,292942,6
+1940,63,Scranton city PA,140404,-20
+1940,45,Richmond city VA,193042,-1
+1940,64,Paterson city NJ,139656,-2
+1940,39,Omaha city NE,223844,-1
+1940,73,Fall River city MA,115428,-20
+1940,40,Dayton city OH,210718,-4
+1940,52,Grand Rapids city MI,164292,-3
+1940,50,Nashville city TN,167402,-6
+1940,88,Lowell city MA,101389,-13
+1940,78,Cambridge city MA,110879,-9
+1940,68,Spokane city WA,122001,6
+1940,59,Bridgeport city CT,147121,-4
+1940,65,Albany city NY,130577,-4
+1940,51,Hartford city CT,166267,-3
+1940,67,Trenton city NJ,124697,-13
+1940,80,New Bedford city MA,110341,-17
+1940,36,San Antonio city TX,253854,11
+1940,79,Reading city PA,110568,-17
+1940,71,Camden city NJ,117536,-15
+1940,57,Salt Lake City city UT,149934,5
+1940,31,Dallas city TX,294734,9
+1940,95,Lynn city MA,98123,-6
+1940,58,Springfield city MA,149554,-3
+1940,75,Wilmington city DE,112504,-20
+1940,55,Des Moines city IA,159819,2
+,101,Lawrence city MA,,0
+1940,82,Tacoma city WA,109408,17
+1940,69,Kansas City city KS,121458,-8
+1940,61,Yonkers city NY,142598,-3
+,101,Youngstown city PA,,0
+1940,21,Houston city TX,384514,7
+1940,90,Duluth city MN,101065,-11
+,101,St Joseph city MO,,0
+1940,87,Somerville city MA,102177,-14
+,101,Troy city NY,,0
+1940,92,Utica city NY,100518,-9
+1940,81,Elizabeth city NJ,109912,-11
+1940,46,Fort Worth city TX,177662,8
+1940,93,Waterbury city CT,99314,-8
+,101,Schenectady city NY,,0
+,101,Hoboken city NJ,,0
+,101,Manchester city NH,,0
+1940,96,Evansville city IN,97062,17
+1940,38,Akron city OH,244791,-1
+1940,60,Norfolk city VA,144332,12
+,101,Wilkes-Barre city PA,,0
+1940,86,Peoria city IL,105087,-8
+1940,72,Erie city PA,116955,-3
+1940,99,Savannah city GA,95996,11
+1940,42,Oklahoma City city OK,204424,-3
+,101,Harrisburg city PA,,0
+1940,70,Fort Wayne city IN,118410,-2
+,101,Charleston city SC,,0
+,101,Portland city ME,,0
+,101,East St Louis city IL,,0
+,101,Terre Haute city IN,,0
+,101,Holyoke city MA,,0
+1940,47,Jacksonville city FL,173065,-2
+,101,Brockton city MA,,0
+,101,Bayonne city NJ,,0
+,101,Johnstown city PA,,0
+,101,Passaic city NJ,,0
+1940,89,South Bend city IN,101268,-1
+1940,49,Youngstown city OH,167720,-8
+,101,Lynn city LA,,0
+1940,56,Flint city MI,151543,-4
+1940,83,Canton city OH,108401,-6
+1940,77,Knoxville city TN,111580,-7
+1940,98,El Paso city TX,96810,22
+1940,43,San Diego city CA,203341,12
+1940,97,Allentown city PA,96904,-3
+1940,74,Wichita city KS,114966,16
+1940,62,Tulsa city OK,142157,11
+,101,Sioux City city IA,,0
+1940,53,Long Beach city CA,164271,12
+,101,Patterson city NJ,,0
+1940,66,Chattanooga city TN,128163,-8
+1940,48,Miami city FL,172172,6
+,101,South Bend IN,,0
+1940,84,Tampa city FL,108391,-1
+1940,76,Gary city IN,111719,5
+1940,85,Sacramento city CA,105958,18
+,101,Rockford city IL,,0
+1940,91,Charlotte city NC,100899,21
+1940,94,Shreveport city LA,98167,13
+1940,100,Little Rock city AR,88039,-1
+,101,Arlington CDP VA,,33
+,101,Austin city TX,,28
+,101,Mobile city AL,,23
+,101,Baton Rouge city LA,,19
+,101,Berkeley city CA,,10
+,101,Corpus Christi city TX,,3
+,101,Phoenix city AZ,,2
+,101,Honolulu CDP HI,,0
+,101,Tucson city AZ,,0
+,101,San Jose city CA,,0
+,101,Albuquerque city NM,,0
+,101,St Petersburg city FL,,0
+,101,Jackson city MS,,0
+,101,Amarillo city TX,,0
+,101,Montgomery city AL,,0
+,101,Fresno city CA,,0
+,101,Lubbock city TX,,0
+,101,Lincoln city NE,,0
+,101,Madison city WI,,0
+,101,Greensboro city NC,,0
+,101,Nashville-Davidson TN,,0
+,101,Warren city MI,,0
+,101,Virginia Beach city VA,,0
+,101,Anaheim city CA,,0
+,101,Santa Ana city CA,,0
+,101,Columbus city GA,,0
+,101,Riverside city CA,,0
+,101,Fort Lauderdale city FL,,0
+,101,Colorado Springs city CO,,0
+,101,Lexington-Fayette KY,,0
+,101,Anchorage city AK,,0
+,101,Huntington Beach city CA,,0
+,101,Las Vegas city NV,,0
+,101,Metairie CDP LA,,0
+,101,Arlington city TX,,0
+,101,Aurora city CO,,0
+,101,Mesa city AZ,,0
+,101,Stockton city CA,,0
+,101,Raleigh city NC,,0
+,101,Hialeah city FL,,0
+,101,Garland city TX,,0
+,101,Glendale city CA,,0
+,101,Bakersfield city CA,,0
+,101,Fremont city CA,,0
+1950,1,New York city NY,7891957,0
+1950,2,Chicago city IL,3620962,0
+1950,3,Philadelphia city PA,2071605,-1
+1950,8,St Louis city MO,856796,-2
+1950,10,Boston city MA,801444,-3
+1950,7,Cleveland city OH,914808,-1
+1950,6,Baltimore city MD,949708,0
+1950,12,Pittsburgh city PA,676806,-4
+1950,5,Detroit city MI,1849568,0
+1950,15,Buffalo city NY,580132,-5
+1950,11,San Francisco city CA,775357,-1
+1950,13,Milwaukee city WI,637392,2
+1950,18,Cincinnati city OH,503998,-3
+1950,21,Newark city NJ,438776,-9
+1950,16,New Orleans city LA,570445,1
+1950,9,Washington city DC,802178,0
+1950,4,Los Angeles city CA,1970358,1
+1950,17,Minneapolis city MN,521718,-8
+1950,37,Jersey City city NJ,299017,-10
+1950,20,Kansas City city MO,456622,-7
+1950,19,Seattle city WA,467591,0
+1950,23,Indianapolis city IN,427173,-3
+1950,43,Providence city RI,248674,-13
+1950,30,Louisville city KY,369129,-1
+1950,32,Rochester city NY,332488,-6
+1950,35,St Paul city MN,311349,-5
+1950,24,Denver city CO,415786,1
+1950,29,Portland city OR,373628,-3
+1950,28,Columbus city OH,375901,0
+1950,36,Toledo city OH,303616,-3
+1950,33,Atlanta city GA,331314,9
+1950,27,Oakland city CA,384575,-6
+1950,50,Worcester city MA,203486,-16
+1950,47,Syracuse city NY,220583,-6
+1950,59,New Haven city CT,164443,-23
+1950,34,Birmingham city AL,326037,-2
+1950,26,Memphis city TN,396000,4
+1950,83,Scranton city PA,125536,-18
+1950,46,Richmond city VA,230310,-6
+1950,66,Paterson city NJ,139336,-20
+1950,40,Omaha city NE,251117,-2
+1950,93,Fall River city MA,111963,-8
+1950,44,Dayton city OH,243872,-5
+1950,55,Grand Rapids city MI,176515,-16
+1950,56,Nashville city TN,174307,-17
+,101,Lowell city MA,,0
+1950,87,Cambridge city MA,120740,-14
+1950,62,Spokane city WA,161721,-6
+1950,63,Bridgeport city CT,158709,-17
+1950,69,Albany city NY,134995,-25
+1950,54,Hartford city CT,177397,-24
+1950,80,Trenton city NJ,128009,-21
+1950,97,New Bedford city MA,109189,-4
+1950,25,San Antonio city TX,408442,8
+1950,96,Reading city PA,109320,-5
+1950,86,Camden city NJ,124555,-15
+1950,52,Salt Lake City city UT,182121,-13
+1950,22,Dallas city TX,434462,8
+,101,Lynn city MA,,0
+1950,61,Springfield city MA,162399,-11
+1950,95,Wilmington city DE,110356,-6
+1950,53,Des Moines city IA,177965,-2
+,101,Lawrence city MA,,0
+1950,65,Tacoma city WA,143673,-19
+1950,77,Kansas City city KS,129553,-22
+1950,64,Yonkers city NY,152798,0
+,101,Youngstown city PA,,0
+1950,14,Houston city TX,596163,7
+,101,Duluth city MN,,0
+,101,St Joseph city MO,,0
+,101,Somerville city MA,,0
+,101,Troy city NY,,0
+,101,Utica city NY,,0
+1950,92,Elizabeth city NJ,112817,-9
+1950,38,Fort Worth city TX,278778,4
+,101,Waterbury city CT,,0
+,101,Schenectady city NY,,0
+,101,Hoboken city NJ,,0
+,101,Manchester city NH,,0
+1950,79,Evansville city IN,128636,-8
+1950,39,Akron city OH,274605,-6
+1950,48,Norfolk city VA,213513,7
+,101,Wilkes-Barre city PA,,0
+1950,94,Peoria city IL,111856,-7
+1950,75,Erie city PA,130803,-13
+1950,88,Savannah city GA,119638,5
+1950,45,Oklahoma City city OK,243504,8
+,101,Harrisburg city PA,,0
+1950,72,Fort Wayne city IN,133607,-7
+,101,Charleston city SC,,0
+,101,Portland city ME,,0
+,101,East St Louis city IL,,0
+,101,Terre Haute city IN,,0
+,101,Holyoke city MA,,0
+1950,49,Jacksonville city FL,204517,-12
+,101,Brockton city MA,,0
+,101,Bayonne city NJ,,0
+,101,Johnstown city PA,,0
+,101,Passaic city NJ,,0
+1950,90,South Bend city IN,115911,-2
+1950,57,Youngstown city OH,168330,-18
+,101,Lynn city LA,,0
+1950,60,Flint city MI,163143,-2
+1950,89,Canton city OH,116912,-12
+1950,84,Knoxville city TN,124769,-17
+1950,76,El Paso city TX,130485,30
+1950,31,San Diego city CA,334387,13
+1950,100,Allentown city PA,106756,-1
+1950,58,Wichita city KS,168279,7
+1950,51,Tulsa city OK,182740,1
+,101,Sioux City city IA,,0
+1950,41,Long Beach city CA,250767,6
+,101,Patterson city NJ,,0
+1950,74,Chattanooga city TN,131041,-19
+1950,42,Miami city FL,249276,-2
+,101,South Bend IN,,0
+1950,85,Tampa city FL,124681,37
+1950,71,Gary city IN,133911,1
+1950,67,Sacramento city CA,137572,4
+,101,Rockford city IL,,4
+1950,70,Charlotte city NC,134042,11
+1950,81,Shreveport city LA,127206,5
+,101,Little Rock city AR,,0
+1950,68,Arlington CDP VA,135449,-9
+1950,73,Austin city TX,132459,6
+1950,78,Mobile city AL,129009,20
+1950,82,Baton Rouge city LA,125629,1
+1950,91,Berkeley city CA,113805,-10
+1950,98,Corpus Christi city TX,108287,24
+1950,99,Phoenix city AZ,106818,70
+,101,Honolulu CDP HI,,58
+,101,Tucson city AZ,,47
+,101,San Jose city CA,,44
+,101,Albuquerque city NM,,41
+,101,St Petersburg city FL,,32
+,101,Jackson city MS,,16
+,101,Amarillo city TX,,12
+,101,Montgomery city AL,,11
+,101,Fresno city CA,,10
+,101,Lubbock city TX,,6
+,101,Lincoln city NE,,5
+,101,Madison city WI,,4
+,101,Greensboro city NC,,1
+,101,Nashville-Davidson TN,,0
+,101,Warren city MI,,0
+,101,Virginia Beach city VA,,0
+,101,Anaheim city CA,,0
+,101,Santa Ana city CA,,0
+,101,Columbus city GA,,0
+,101,Riverside city CA,,0
+,101,Fort Lauderdale city FL,,0
+,101,Colorado Springs city CO,,0
+,101,Lexington-Fayette KY,,0
+,101,Anchorage city AK,,0
+,101,Huntington Beach city CA,,0
+,101,Las Vegas city NV,,0
+,101,Metairie CDP LA,,0
+,101,Arlington city TX,,0
+,101,Aurora city CO,,0
+,101,Mesa city AZ,,0
+,101,Stockton city CA,,0
+,101,Raleigh city NC,,0
+,101,Hialeah city FL,,0
+,101,Garland city TX,,0
+,101,Glendale city CA,,0
+,101,Bakersfield city CA,,0
+,101,Fremont city CA,,0
+1960,1,New York city NY,7781984,0
+1960,2,Chicago city IL,3550404,0
+1960,4,Philadelphia city PA,2002512,0
+1960,10,St Louis city MO,750026,-8
+1960,13,Boston city MA,697197,-3
+1960,8,Cleveland city OH,876050,-2
+1960,6,Baltimore city MD,939024,-1
+1960,16,Pittsburgh city PA,604332,-8
+1960,5,Detroit city MI,1670144,0
+1960,20,Buffalo city NY,532759,-8
+1960,12,San Francisco city CA,740316,-1
+1960,11,Milwaukee city WI,741324,-1
+1960,21,Cincinnati city OH,502550,-8
+1960,30,Newark city NJ,405220,-6
+1960,15,New Orleans city LA,627525,-4
+1960,9,Washington city DC,763956,0
+1960,3,Los Angeles city CA,2479015,0
+1960,25,Minneapolis city MN,482872,-7
+1960,47,Jersey City city NJ,276101,-7
+1960,27,Kansas City city MO,475539,1
+1960,19,Seattle city WA,557087,-3
+1960,26,Indianapolis city IN,476258,15
+1960,56,Providence city RI,207498,-15
+1960,31,Louisville city KY,390639,-8
+1960,38,Rochester city NY,318611,-11
+1960,40,St Paul city MN,313411,-6
+1960,23,Denver city CO,493887,-2
+1960,32,Portland city OR,372676,-3
+1960,28,Columbus city OH,471316,7
+1960,39,Toledo city OH,318003,5
+1960,24,Atlanta city GA,487455,-3
+1960,33,Oakland city CA,367548,-5
+1960,66,Worcester city MA,186587,-7
+1960,53,Syracuse city NY,216038,-13
+1960,82,New Haven city CT,152048,-19
+1960,36,Birmingham city AL,340887,-12
+1960,22,Memphis city TN,497524,5
+,101,Scranton city PA,,0
+1960,52,Richmond city VA,219958,-5
+1960,86,Paterson city NJ,143663,-9
+1960,42,Omaha city NE,301598,1
+,101,Fall River city MA,,0
+1960,49,Dayton city OH,262332,-10
+1960,71,Grand Rapids city MI,177313,6
+1960,73,Nashville city TN,170874,-28
+,101,Lowell city MA,,0
+,101,Cambridge city MA,,0
+1960,68,Spokane city WA,181608,-12
+1960,80,Bridgeport city CT,156748,-8
+1960,94,Albany city NY,129726,-7
+1960,78,Hartford city CT,162178,-8
+,101,Trenton city NJ,,0
+,101,New Bedford city MA,,0
+1960,17,San Antonio city TX,587718,2
+,101,Reading city PA,,0
+,101,Camden city NJ,,0
+1960,65,Salt Lake City city UT,189454,-9
+1960,14,Dallas city TX,679684,6
+,101,Lynn city MA,,0
+1960,72,Springfield city MA,174463,-13
+,101,Wilmington city DE,,0
+1960,55,Des Moines city IA,208982,-9
+,101,Lawrence city MA,,0
+1960,84,Tacoma city WA,147979,-5
+1960,99,Kansas City city KS,121901,18
+1960,64,Yonkers city NY,190634,1
+,101,Youngstown city PA,,0
+1960,7,Houston city TX,938219,1
+,101,Duluth city MN,,0
+,101,St Joseph city MO,,0
+,101,Somerville city MA,,0
+,101,Troy city NY,,0
+,101,Utica city NY,,0
+,101,Elizabeth city NJ,,0
+1960,34,Fort Worth city TX,356268,1
+,101,Waterbury city CT,,0
+,101,Schenectady city NY,,0
+,101,Hoboken city NJ,,0
+,101,Manchester city NH,,0
+1960,87,Evansville city IN,141543,-13
+1960,45,Akron city OH,290351,-7
+1960,41,Norfolk city VA,305872,-6
+,101,Wilkes-Barre city PA,,0
+,101,Peoria city IL,,0
+1960,88,Erie city PA,138440,-13
+1960,83,Savannah city GA,149245,-18
+1960,37,Oklahoma City city OK,324253,0
+,101,Harrisburg city PA,,0
+1960,79,Fort Wayne city IN,161776,7
+,101,Charleston city SC,,0
+,101,Portland city ME,,0
+,101,East St Louis city IL,,0
+,101,Terre Haute city IN,,0
+,101,Holyoke city MA,,0
+1960,61,Jacksonville city FL,201030,38
+,101,Brockton city MA,,0
+,101,Bayonne city NJ,,0
+,101,Johnstown city PA,,0
+,101,Passaic city NJ,,0
+1960,92,South Bend city IN,132445,-9
+1960,75,Youngstown city OH,166689,-23
+,101,Lynn city LA,,0
+1960,62,Flint city MI,196940,-5
+,101,Canton city OH,,0
+,101,Knoxville city TN,,25
+1960,46,El Paso city TX,276687,1
+1960,18,San Diego city CA,573224,4
+,101,Allentown city PA,,0
+1960,51,Wichita city KS,254698,0
+1960,50,Tulsa city OK,261685,7
+,101,Sioux City city IA,,0
+1960,35,Long Beach city CA,344168,-5
+,101,Patterson city NJ,,0
+1960,93,Chattanooga city TN,130009,-8
+1960,44,Miami city FL,291688,2
+,101,South Bend IN,,0
+1960,48,Tampa city FL,274970,-2
+1960,70,Gary city IN,178320,-5
+1960,63,Sacramento city CA,191667,8
+1960,97,Rockford city IL,126706,3
+1960,59,Charlotte city NC,201564,-1
+1960,76,Shreveport city LA,164372,7
+,101,Little Rock city AR,,0
+1960,77,Arlington CDP VA,163401,0
+1960,67,Austin city TX,186545,11
+1960,58,Mobile city AL,202779,-10
+1960,81,Baton Rouge city LA,152419,-3
+,101,Berkeley city CA,,0
+1960,74,Corpus Christi city TX,167690,12
+1960,29,Phoenix city AZ,439170,9
+1960,43,Honolulu CDP HI,294194,-1
+1960,54,Tucson city AZ,212892,1
+1960,57,San Jose city CA,204196,26
+1960,60,Albuquerque city NM,201189,2
+1960,69,St Petersburg city FL,181298,8
+1960,85,Jackson city MS,144422,-6
+1960,89,Amarillo city TX,137969,-12
+1960,90,Montgomery city AL,134393,-11
+1960,91,Fresno city CA,133929,8
+1960,95,Lubbock city TX,128691,2
+1960,96,Lincoln city NE,128521,4
+1960,97,Madison city WI,126706,19
+1960,100,Greensboro city NC,119574,4
+,101,Nashville-Davidson TN,,71
+,101,Warren city MI,,31
+,101,Virginia Beach city VA,,22
+,101,Anaheim city CA,,19
+,101,Santa Ana city CA,,14
+,101,Columbus city GA,,11
+,101,Riverside city CA,,4
+,101,Fort Lauderdale city FL,,2
+,101,Colorado Springs city CO,,0
+,101,Lexington-Fayette KY,,0
+,101,Anchorage city AK,,0
+,101,Huntington Beach city CA,,0
+,101,Las Vegas city NV,,0
+,101,Metairie CDP LA,,0
+,101,Arlington city TX,,0
+,101,Aurora city CO,,0
+,101,Mesa city AZ,,0
+,101,Stockton city CA,,0
+,101,Raleigh city NC,,0
+,101,Hialeah city FL,,0
+,101,Garland city TX,,0
+,101,Glendale city CA,,0
+,101,Bakersfield city CA,,0
+,101,Fremont city CA,,0
+1970,1,New York city NY,7894862,0
+1970,2,Chicago city IL,3366957,0
+1970,4,Philadelphia city PA,1948609,0
+1970,18,St Louis city MO,622236,-8
+1970,16,Boston city MA,641071,-4
+1970,10,Cleveland city OH,750903,-8
+1970,7,Baltimore city MD,905759,-3
+1970,24,Pittsburgh city PA,520117,-6
+1970,5,Detroit city MI,1511482,-1
+1970,28,Buffalo city NY,462768,-11
+1970,13,San Francisco city CA,715674,0
+1970,12,Milwaukee city WI,717099,-4
+1970,29,Cincinnati city OH,452524,-3
+1970,36,Newark city NJ,382417,-10
+1970,19,New Orleans city LA,593471,-2
+1970,9,Washington city DC,756510,-6
+1970,3,Los Angeles city CA,2816061,0
+1970,32,Minneapolis city MN,434400,-2
+1970,54,Jersey City city NJ,260545,-7
+1970,26,Kansas City city MO,507087,-1
+1970,22,Seattle city WA,530831,-1
+1970,11,Indianapolis city IN,744624,-1
+1970,71,Providence city RI,179213,-29
+1970,39,Louisville city KY,361472,-10
+1970,49,Rochester city NY,296233,-8
+1970,46,St Paul city MN,309980,-8
+1970,25,Denver city CO,514678,1
+1970,35,Portland city OR,382619,0
+1970,21,Columbus city OH,539677,2
+1970,34,Toledo city OH,383818,-6
+1970,27,Atlanta city GA,496973,-2
+1970,38,Oakland city CA,361561,-5
+1970,73,Worcester city MA,176572,-19
+1970,66,Syracuse city NY,197208,-20
+,101,New Haven city CT,,0
+1970,48,Birmingham city AL,300910,-2
+1970,17,Memphis city TN,623530,3
+,101,Scranton city PA,,0
+1970,57,Richmond city VA,249621,-7
+1970,95,Paterson city NJ,144824,-6
+1970,41,Omaha city NE,347328,-7
+,101,Fall River city MA,,0
+1970,59,Dayton city OH,243601,-11
+1970,65,Grand Rapids city MI,197649,-10
+,101,Nashville city TN,,0
+,101,Lowell city MA,,0
+,101,Cambridge city MA,,0
+1970,80,Spokane city WA,170516,-2
+1970,88,Bridgeport city CT,156542,-13
+,101,Albany city NY,,0
+1970,86,Hartford city CT,158017,-15
+,101,Trenton city NJ,,0
+,101,New Bedford city MA,,0
+1970,15,San Antonio city TX,654153,4
+,101,Reading city PA,,0
+,101,Camden city NJ,,0
+1970,74,Salt Lake City city UT,175885,-17
+1970,8,Dallas city TX,844401,1
+,101,Lynn city MA,,0
+1970,85,Springfield city MA,163905,-16
+,101,Wilmington city DE,,0
+1970,64,Des Moines city IA,200587,-10
+,101,Lawrence city MA,,0
+1970,89,Tacoma city WA,154581,-9
+1970,81,Kansas City city KS,168213,-13
+1970,63,Yonkers city NY,204297,-10
+,101,Youngstown city PA,,0
+1970,6,Houston city TX,1232802,1
+,101,Duluth city MN,,0
+,101,St Joseph city MO,,0
+,101,Somerville city MA,,0
+,101,Troy city NY,,0
+,101,Utica city NY,,0
+,101,Elizabeth city NJ,,0
+1970,33,Fort Worth city TX,393476,0
+,101,Waterbury city CT,,0
+,101,Schenectady city NY,,0
+,101,Hoboken city NJ,,0
+,101,Manchester city NH,,0
+1970,100,Evansville city IN,138764,-1
+1970,52,Akron city OH,275425,-7
+1970,47,Norfolk city VA,307951,-8
+,101,Wilkes-Barre city PA,,0
+,101,Peoria city IL,,0
+,101,Erie city PA,,0
+,101,Savannah city GA,,0
+1970,37,Oklahoma City city OK,366481,6
+,101,Harrisburg city PA,,0
+1970,72,Fort Wayne city IN,177671,-8
+,101,Charleston city SC,,0
+,101,Portland city ME,,0
+,101,East St Louis city IL,,0
+,101,Terre Haute city IN,,0
+,101,Holyoke city MA,,0
+1970,23,Jacksonville city FL,528865,1
+,101,Brockton city MA,,0
+,101,Bayonne city NJ,,0
+,101,Johnstown city PA,,0
+,101,Passaic city NJ,,0
+,101,South Bend city IN,,0
+1970,98,Youngstown city OH,139788,-3
+,101,Lynn city LA,,0
+1970,67,Flint city MI,193317,-29
+,101,Canton city OH,,0
+1970,76,Knoxville city TN,174587,-1
+1970,45,El Paso city TX,322261,17
+1970,14,San Diego city CA,696769,6
+,101,Allentown city PA,,0
+1970,51,Wichita city KS,276554,0
+1970,43,Tulsa city OK,331638,5
+,101,Sioux City city IA,,0
+1970,40,Long Beach city CA,358633,3
+,101,Patterson city NJ,,0
+,101,Chattanooga city TN,,14
+1970,42,Miami city FL,334859,1
+,101,South Bend IN,,0
+1970,50,Tampa city FL,277767,-3
+1970,75,Gary city IN,175415,-26
+1970,55,Sacramento city CA,254413,3
+1970,94,Rockford city IL,147370,-7
+1970,60,Charlotte city NC,241178,13
+1970,69,Shreveport city LA,182064,2
+,101,Little Rock city AR,,2
+1970,77,Arlington CDP VA,174284,-24
+1970,56,Austin city TX,251808,14
+1970,68,Mobile city AL,190026,-4
+1970,84,Baton Rouge city LA,165963,22
+,101,Berkeley city CA,,0
+1970,62,Corpus Christi city TX,204525,2
+1970,20,Phoenix city AZ,581562,11
+1970,44,Honolulu CDP HI,324871,8
+1970,53,Tucson city AZ,262933,8
+1970,31,San Jose city CA,445779,14
+1970,58,Albuquerque city NM,243751,14
+1970,61,St Petersburg city FL,216232,3
+1970,91,Jackson city MS,153968,20
+,101,Amarillo city TX,,0
+,101,Montgomery city AL,,25
+1970,83,Fresno city CA,165972,18
+1970,93,Lubbock city TX,149101,14
+1970,92,Lincoln city NE,149518,11
+1970,78,Madison city WI,173258,-6
+1970,96,Greensboro city NC,144076,-5
+1970,30,Nashville-Davidson TN,448003,5
+1970,70,Warren city MI,179260,-23
+1970,79,Virginia Beach city VA,172106,23
+1970,82,Anaheim city CA,166701,19
+1970,87,Santa Ana city CA,156601,18
+1970,90,Columbus city GA,154168,2
+1970,97,Riverside city CA,140089,14
+1970,99,Fort Lauderdale city FL,139590,-2
+,101,Colorado Springs city CO,,35
+,101,Lexington-Fayette KY,,33
+,101,Anchorage city AK,,23
+,101,Huntington Beach city CA,,16
+,101,Las Vegas city NV,,12
+,101,Metairie CDP LA,,11
+,101,Arlington city TX,,6
+,101,Aurora city CO,,4
+,101,Mesa city AZ,,0
+,101,Stockton city CA,,0
+,101,Raleigh city NC,,0
+,101,Hialeah city FL,,0
+,101,Garland city TX,,0
+,101,Glendale city CA,,0
+,101,Bakersfield city CA,,0
+,101,Fremont city CA,,0
+1980,1,New York city NY,7071639,0
+1980,2,Chicago city IL,3005072,-1
+1980,4,Philadelphia city PA,1688210,-1
+1980,26,St Louis city MO,453085,-8
+1980,20,Boston city MA,562994,0
+1980,18,Cleveland city OH,573822,-5
+1980,10,Baltimore city MD,786775,-2
+1980,30,Pittsburgh city PA,423938,-10
+1980,6,Detroit city MI,1203339,-1
+1980,39,Buffalo city NY,357870,-11
+1980,13,San Francisco city CA,678974,-1
+1980,16,Milwaukee city WI,636212,-1
+1980,32,Cincinnati city OH,385457,-13
+1980,46,Newark city NJ,329248,-10
+1980,21,New Orleans city LA,557515,-3
+1980,15,Washington city DC,638333,-4
+1980,3,Los Angeles city CA,2966850,1
+1980,34,Minneapolis city MN,370951,-8
+1980,61,Jersey City city NJ,223532,-6
+1980,27,Kansas City city MO,448159,-4
+1980,23,Seattle city WA,493846,2
+1980,12,Indianapolis city IN,700807,-1
+1980,100,Providence city RI,156804,-1
+1980,49,Louisville city KY,298451,-9
+1980,57,Rochester city NY,241741,-9
+1980,54,St Paul city MN,270230,-3
+1980,24,Denver city CO,492365,-2
+1980,35,Portland city OR,366383,5
+1980,19,Columbus city OH,564871,3
+1980,40,Toledo city OH,354635,-9
+1980,29,Atlanta city GA,425022,-7
+1980,43,Oakland city CA,339337,4
+1980,92,Worcester city MA,161799,-9
+1980,86,Syracuse city NY,170105,-15
+,101,New Haven city CT,,0
+1980,50,Birmingham city AL,284413,-10
+1980,14,Memphis city TN,646356,-4
+,101,Scranton city PA,,0
+1980,64,Richmond city VA,219214,-12
+,101,Paterson city NJ,,0
+1980,48,Omaha city NE,314255,0
+,101,Fall River city MA,,0
+1980,70,Dayton city OH,203371,-19
+1980,75,Grand Rapids city MI,181843,-8
+,101,Nashville city TN,,0
+,101,Lowell city MA,,0
+,101,Cambridge city MA,,0
+1980,82,Spokane city WA,171300,-12
+,101,Bridgeport city CT,,0
+,101,Albany city NY,,0
+,101,Hartford city CT,,0
+,101,Trenton city NJ,,0
+,101,New Bedford city MA,,0
+1980,11,San Antonio city TX,785880,1
+,101,Reading city PA,,0
+,101,Camden city NJ,,0
+1980,91,Salt Lake City city UT,163033,-10
+1980,7,Dallas city TX,904078,-1
+,101,Lynn city MA,,0
+,101,Springfield city MA,,0
+,101,Wilmington city DE,,0
+1980,74,Des Moines city IA,191003,-6
+,101,Lawrence city MA,,0
+1980,98,Tacoma city WA,158501,3
+1980,94,Kansas City city KS,161087,-7
+1980,73,Yonkers city NY,195351,-11
+,101,Youngstown city PA,,0
+1980,5,Houston city TX,1595138,1
+,101,Duluth city MN,,0
+,101,St Joseph city MO,,0
+,101,Somerville city MA,,0
+,101,Troy city NY,,0
+,101,Utica city NY,,0
+,101,Elizabeth city NJ,,0
+1980,33,Fort Worth city TX,385164,5
+,101,Waterbury city CT,,0
+,101,Schenectady city NY,,0
+,101,Hoboken city NJ,,0
+,101,Manchester city NH,,0
+,101,Evansville city IN,,0
+1980,59,Akron city OH,237177,-12
+1980,55,Norfolk city VA,266979,-7
+,101,Wilkes-Barre city PA,,0
+,101,Peoria city IL,,0
+,101,Erie city PA,,0
+,101,Savannah city GA,,0
+1980,31,Oklahoma City city OK,403213,2
+,101,Harrisburg city PA,,0
+1980,80,Fort Wayne city IN,172196,-19
+,101,Charleston city SC,,0
+,101,Portland city ME,,0
+,101,East St Louis city IL,,0
+,101,Terre Haute city IN,,0
+,101,Holyoke city MA,,0
+1980,22,Jacksonville city FL,540920,7
+,101,Brockton city MA,,0
+,101,Bayonne city NJ,,0
+,101,Johnstown city PA,,0
+,101,Passaic city NJ,,0
+,101,South Bend city IN,,0
+,101,Youngstown city OH,,0
+,101,Lynn city LA,,0
+1980,96,Flint city MI,159611,-5
+,101,Canton city OH,,0
+1980,77,Knoxville city TN,175030,-24
+1980,28,El Paso city TX,425259,6
+1980,8,San Diego city CA,875538,2
+,101,Allentown city PA,,0
+1980,51,Wichita city KS,279272,0
+1980,38,Tulsa city OK,360919,-5
+,101,Sioux City city IA,,0
+1980,37,Long Beach city CA,361334,5
+,101,Patterson city NJ,,0
+1980,87,Chattanooga city TN,169565,-14
+1980,41,Miami city FL,346865,-5
+,101,South Bend IN,,0
+1980,53,Tampa city FL,271523,-2
+,101,Gary city IN,,0
+1980,52,Sacramento city CA,275741,11
+,101,Rockford city IL,,0
+1980,47,Charlotte city NC,314447,12
+1980,67,Shreveport city LA,205820,-10
+1980,99,Little Rock city AR,158461,3
+,101,Arlington CDP VA,,1
+1980,42,Austin city TX,345496,15
+1980,72,Mobile city AL,200452,-7
+1980,62,Baton Rouge city LA,219419,-11
+,101,Berkeley city CA,,0
+1980,60,Corpus Christi city TX,231999,-4
+1980,9,Phoenix city AZ,789704,0
+1980,36,Honolulu CDP HI,365048,-8
+1980,45,Tucson city AZ,330537,12
+1980,17,San Jose city CA,629442,6
+1980,44,Albuquerque city NM,331767,6
+1980,58,St Petersburg city FL,238647,-7
+1980,71,Jackson city MS,202895,-7
+,101,Amarillo city TX,,0
+1980,76,Montgomery city AL,177857,-10
+1980,65,Fresno city CA,218202,18
+1980,79,Lubbock city TX,173979,-8
+1980,81,Lincoln city NE,171932,0
+1980,84,Madison city WI,170616,2
+,101,Greensboro city NC,,13
+1980,25,Nashville-Davidson TN,455651,0
+1980,93,Warren city MI,161134,-8
+1980,56,Virginia Beach city VA,262199,19
+1980,63,Anaheim city CA,219311,4
+1980,69,Santa Ana city CA,203713,17
+1980,88,Columbus city GA,169441,-5
+1980,83,Riverside city CA,170876,15
+,101,Fort Lauderdale city FL,,0
+1980,66,Colorado Springs city CO,215150,12
+1980,68,Lexington-Fayette KY,204165,-2
+1980,78,Anchorage city AK,174431,9
+1980,85,Huntington Beach city CA,170505,-5
+1980,89,Las Vegas city NV,164674,26
+1980,90,Metairie CDP LA,164160,-11
+1980,95,Arlington city TX,160113,34
+1980,97,Aurora city CO,158588,25
+,101,Mesa city AZ,,48
+,101,Stockton city CA,,27
+,101,Raleigh city NC,,26
+,101,Hialeah city FL,,16
+,101,Garland city TX,,10
+,101,Glendale city CA,,9
+,101,Bakersfield city CA,,4
+,101,Fremont city CA,,3
+1990,1,New York city NY,7322564,0
+1990,3,Chicago city IL,2783726,1
+1990,5,Philadelphia city PA,1585577,2
+1990,34,St Louis city MO,396685,30
+1990,20,Boston city MA,574283,15
+1990,23,Cleveland city OH,505616,17
+1990,12,Baltimore city MD,736014,5
+1990,40,Pittsburgh city PA,369879,32
+1990,7,Detroit city MI,1027974,-2
+1990,50,Buffalo city NY,328123,40
+1990,14,San Francisco city CA,723959,3
+1990,17,Milwaukee city WI,628088,5
+1990,45,Cincinnati city OH,364040,32
+1990,56,Newark city NJ,275221,42
+1990,24,New Orleans city LA,496938,9
+1990,19,Washington city DC,606900,3
+1990,2,Los Angeles city CA,3485398,-15
+1990,42,Minneapolis city MN,368383,24
+1990,67,Jersey City city NJ,228537,48
+1990,31,Kansas City city MO,435146,11
+1990,21,Seattle city WA,516259,0
+1990,13,Indianapolis city IN,731327,-9
+,101,Providence city RI,,78
+1990,58,Louisville city KY,269063,34
+1990,66,Rochester city NY,231636,41
+1990,57,St Paul city MN,272235,31
+1990,26,Denver city CO,467610,-1
+1990,30,Portland city OR,437319,2
+1990,16,Columbus city OH,632910,-13
+1990,49,Toledo city OH,332943,19
+1990,36,Atlanta city GA,394017,5
+1990,39,Oakland city CA,372242,7
+,101,Worcester city MA,,68
+,101,Syracuse city NY,,67
+,101,New Haven city CT,,66
+1990,60,Birmingham city AL,265968,24
+1990,18,Memphis city TN,610337,-19
+,101,Scranton city PA,,63
+1990,76,Richmond city VA,203056,37
+,101,Paterson city NJ,,61
+1990,48,Omaha city NE,335795,7
+,101,Fall River city MA,,59
+1990,89,Dayton city OH,182044,46
+1990,83,Grand Rapids city MI,189126,39
+,101,Nashville city TN,,56
+,101,Lowell city MA,,55
+,101,Cambridge city MA,,54
+1990,94,Spokane city WA,177196,46
+,101,Bridgeport city CT,,52
+,101,Albany city NY,,51
+,101,Hartford city CT,,50
+,101,Trenton city NJ,,49
+,101,New Bedford city MA,,48
+1990,10,San Antonio city TX,935933,-44
+,101,Reading city PA,,46
+,101,Camden city NJ,,45
+,101,Salt Lake City city UT,,44
+1990,8,Dallas city TX,1006877,-50
+,101,Lynn city MA,,42
+,101,Springfield city MA,,41
+,101,Wilmington city DE,,40
+1990,80,Des Moines city IA,193187,18
+,101,Lawrence city MA,,38
+1990,95,Tacoma city WA,176664,31
+,101,Kansas City city KS,,36
+1990,84,Yonkers city NY,188082,18
+,101,Youngstown city PA,,34
+1990,4,Houston city TX,1630553,-64
+,101,Duluth city MN,,32
+,101,St Joseph city MO,,31
+,101,Somerville city MA,,30
+,101,Troy city NY,,29
+,101,Utica city NY,,28
+,101,Elizabeth city NJ,,27
+1990,28,Fort Worth city TX,447619,-47
+,101,Waterbury city CT,,25
+,101,Schenectady city NY,,24
+,101,Hoboken city NJ,,23
+,101,Manchester city NH,,22
+,101,Evansville city IN,,21
+1990,71,Akron city OH,223019,-10
+1990,62,Norfolk city VA,261229,-20
+,101,Wilkes-Barre city PA,,18
+,101,Peoria city IL,,17
+,101,Erie city PA,,16
+,101,Savannah city GA,,15
+1990,29,Oklahoma City city OK,444719,-58
+,101,Harrisburg city PA,,13
+1990,99,Fort Wayne city IN,173072,10
+,101,Charleston city SC,,11
+,101,Portland city ME,,10
+,101,East St Louis city IL,,9
+,101,Terre Haute city IN,,8
+,101,Holyoke city MA,,7
+1990,15,Jacksonville city FL,635230,-80
+,101,Brockton city MA,,5
+,101,Bayonne city NJ,,4
+,101,Johnstown city PA,,3
+,101,Passaic city NJ,,2
+,101,South Bend city IN,,1
+,101,Youngstown city OH,,0
+,101,Lynn city LA,,0
+,101,Flint city MI,,0
+,101,Canton city OH,,0
+,101,Knoxville city TN,,0
+1990,22,El Paso city TX,515342,-79
+1990,6,San Diego city CA,1110549,-95
+,101,Allentown city PA,,0
+1990,51,Wichita city KS,304011,-50
+1990,43,Tulsa city OK,367302,-58
+,101,Sioux City city IA,,0
+1990,32,Long Beach city CA,429433,-69
+,101,Patterson city NJ,,0
+,101,Chattanooga city TN,,0
+1990,46,Miami city FL,358548,-55
+,101,South Bend IN,,0
+1990,55,Tampa city FL,280015,-46
+,101,Gary city IN,,0
+1990,41,Sacramento city CA,369365,-60
+,101,Rockford city IL,,0
+1990,35,Charlotte city NC,395934,-66
+1990,77,Shreveport city LA,198525,-24
+1990,96,Little Rock city AR,175795,-5
+1990,100,Arlington CDP VA,170936,-1
+1990,27,Austin city TX,465622,-74
+1990,79,Mobile city AL,196278,-22
+1990,73,Baton Rouge city LA,219531,-28
+,101,Berkeley city CA,,0
+1990,64,Corpus Christi city TX,257453,-37
+1990,9,Phoenix city AZ,983403,-92
+1990,44,Honolulu CDP HI,365272,-57
+1990,33,Tucson city AZ,405390,-68
+1990,11,San Jose city CA,782248,-90
+1990,38,Albuquerque city NM,384736,-63
+1990,65,St Petersburg city FL,238629,-36
+1990,78,Jackson city MS,196637,-23
+,101,Amarillo city TX,,0
+1990,86,Montgomery city AL,187106,-15
+1990,47,Fresno city CA,354202,-54
+1990,87,Lubbock city TX,186206,-14
+1990,81,Lincoln city NE,191972,-20
+1990,82,Madison city WI,191262,-19
+1990,88,Greensboro city NC,183521,-13
+1990,25,Nashville-Davidson TN,488374,-76
+,101,Warren city MI,,0
+1990,37,Virginia Beach city VA,393069,-64
+1990,59,Anaheim city CA,266406,-42
+1990,52,Santa Ana city CA,293742,-49
+1990,93,Columbus city GA,178681,-8
+1990,68,Riverside city CA,226505,-33
+,101,Fort Lauderdale city FL,,0
+1990,54,Colorado Springs city CO,281140,-47
+1990,70,Lexington-Fayette KY,225366,-31
+1990,69,Anchorage city AK,226338,-32
+1990,90,Huntington Beach city CA,181519,-11
+1990,63,Las Vegas city NV,258295,-38
+,101,Metairie CDP LA,,0
+1990,61,Arlington city TX,261721,-40
+1990,72,Aurora city CO,222103,-29
+1990,53,Mesa city AZ,288091,-48
+1990,74,Stockton city CA,210943,-27
+1990,75,Raleigh city NC,207951,-26
+1990,85,Hialeah city FL,188004,-16
+1990,91,Garland city TX,180650,-10
+1990,92,Glendale city CA,180038,-9
+1990,97,Bakersfield city CA,174820,-4
+1990,98,Fremont city CA,173339,-3

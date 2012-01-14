@@ -1,4 +1,11 @@
 <!SLIDE center bullets incremental transition=fade>
+#Who's Moving Around?
+
+![A Century of Rank Changes](../images/ranking_change.png)
+
+Let's focus on the four biggest changes.
+
+<!SLIDE center bullets incremental transition=fade>
 #Moving Up in the Ranking
 
 ![US Census Ranking Change](../images/census_win_loss_ranking.png)

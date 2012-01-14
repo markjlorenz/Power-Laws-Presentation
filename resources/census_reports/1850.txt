@@ -1,0 +1,67 @@
+Table 8.  Population of 100 Largest Urban Places:  1850
+
+Source:  U.S. Bureau of the Census
+Internet Release date:  June 15, 1998
+
+--------------------------------------------------------------------------------------------------------------- 
+Rank | Place 1/                          | Population || Rank | Place                             | Population
+--------------------------------------------------------------------------------------------------------------- 
+   1   New York city, NY *................    515,547      51   Wilmington city, DE................     13,979
+   2   Baltimore city, MD.................    169,054      52   Manchester city, NH................     13,932
+   3   Boston city, MA *..................    136,881      53   Hartford city, CT..................     13,555
+   4   Philadelphia city, PA *............    121,376      54   Lancaster city, PA.................     12,369
+   5   New Orleans city, LA *.............    116,375      55   Oswego city, NY....................     12,205
+   6   Cincinnati city, OH................    115,435      56   Springfield town, MA...............     11,766
+   7   Brooklyn city, NY *................     96,838      57   Fall River town, MA................     11,524
+   8   St. Louis city, MO.................     77,860      58   Poughkeepsie village, NY *.........     11,511
+   9   Spring Garden district, PA *.......     58,894      59   Wheeling city, VA *................     11,435
+  10   Albany city, NY....................     50,763      60   Paterson township, NJ..............     11,334
+                                                      
+  11   Northern Liberties district, PA *..     47,223      61   Dayton city, OH....................     10,977
+  12   Kensington district, PA *..........     46,774      62   Taunton town, MA...................     10,441
+  13   Pittsburgh city, PA *..............     46,601      63   Nashville city, TN.................     10,165
+  14   Louisville city, KY................     43,194      64   Portsmouth city, NH................      9,738
+  15   Charleston city, SC................     42,985      65   Newburyport town, MA...............      9,572
+  16   Buffalo city, NY...................     42,261      66   Newport town, RI...................      9,563
+  17   Providence city, RI *..............     41,513      67   Auburn city, NY....................      9,548
+  18   Washington city, DC *..............     40,001      68   Camden city, NJ....................      9,479
+  19   Newark city, NJ....................     38,894      69   Augusta city, GA *.................      9,448
+  20   Southwark district, PA *...........     38,799      70   Covington city, KY.................      9,408
+                                                      
+  21   Rochester city, NY.................     36,403      71   New London city, CT................      8,991
+  22   Lowell city, MA....................     33,383      72   Schenectady city, NY...............      8,921
+  23   Williamsburgh town, NY *...........     30,780      73   Memphis city, TN...................      8,841
+  24   Chicago city, IL...................     29,963      74   Alexandria town, VA................      8,734
+  25   Troy city, NY......................     28,785      75   Montgomery city, AL................      8,728
+  26   Richmond city, VA..................     27,570      76   Portsmouth town, VA................      8,626
+  27   Moyamensing district, PA *.........     26,979      77   Concord town, NH...................      8,576
+  28   Syracuse city, NY..................     22,271      78   Nantucket town, MA.................      8,452
+  29   Allegheny city, PA *...............     21,262      79   Georgetown town, DC *..............      8,366
+  30   Detroit city, MI...................     21,019      80   Chicopee town MA...................      8,291
+                                                      
+  31   Portland city, ME..................     20,815      81   Lawrence town, MA..................      8,282
+  32   Mobile city, AL....................     20,515      82   Augusta city, ME...................      8,225
+  33   New Haven city, CT.................     20,345      83   Dover town, NH.....................      8,196
+  34   Salem city, MA.....................     20,264      84   New Albany city, IN................      8,181
+  35   Milwaukee city, WI.................     20,061      85   Lexington city, KY *...............      8,159
+  36   Roxbury city, MA *.................     18,364      86   Danvers town, MA...................      8,109
+  37   Columbus city, OH..................     17,882      87   Indianapolis city, IN..............      8,091
+  38   Utica city, NY.....................     17,565      88   Lynchburg town, VA.................      8,071
+  39   Charlestown city, MA *.............     17,216      89   Bath city, ME......................      8,020
+  40   Worcester city, MA.................     17,049      90   Madison city, IN...................      8,012
+                                                      
+  41   Cleveland city, OH.................     17,034      91   Dorchester town, MA *..............      7,969
+  42   New Bedford city, MA...............     16,443      92   Zanesville city, OH................      7,929
+  43   Reading city, PA...................     15,743      93   Harrisburg borough, PA.............      7,834
+  44   Savannah city, GA..................     15,312      94   Gloucester town, MA................      7,786
+  45   Cambridge city, MA.................     15,215      95   Warwick town, RI...................      7,740
+  46   Bangor city, ME....................     14,432      96   North Providence town, RI *........      7,680
+  47   Norfolk city, VA...................     14,326      97   West Troy town (Watervliet), NY *..      7,564
+  48   Lynn city, MA......................     14,257      98   Pottsville borough, PA.............      7,515
+  49   Lafayette city (old), LA *.........     14,190      99   Wilmington town, NC................      7,264
+  50   Petersburg city, VA................     14,010     100   Easton borough, PA.................      7,250
+--------------------------------------------------------------------------------------------------------------- 
+
+* See Notes for Individual Places.
+1/  Excludes San Francisco, CA for which 1850 census results were destroyed by fire.  The population of San 
+    Francisco according to the 1852 state census was 34,776.

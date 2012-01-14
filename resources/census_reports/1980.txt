@@ -1,0 +1,124 @@
+Table 21.  Population of the 100 Largest Urban Places:  1980
+
+Source:  U.S. Bureau of the Census
+Internet Release date:  June 15, 1998
+
+--------------------------------------------------------------- 
+      |                          |          |       |  Density
+      |                          |          |   Land| (average
+      |                          |          |   area|  popula-
+      |                          |          |   (sq.| tion per
+ Rank | Place                    |Population| miles)|sq. mile)
+--------------------------------------------------------------- 
+    1   New York city, NY *......  7,071,639   301.5    23,455
+    2   Chicago city, IL.........  3,005,072   228.1    13,174
+    3   Los Angeles city, CA.....  2,966,850   464.7     6,384
+    4   Philadelphia city, PA....  1,688,210   136.0    12,413
+    5   Houston city, TX.........  1,595,138   556.4     2,867
+    6   Detroit city, MI.........  1,203,339   135.6     8,874
+    7   Dallas city, TX..........    904,078   333.0     2,715
+    8   San Diego city, CA *.....    875,538   320.0     2,736
+    9   Phoenix city, AZ.........    789,704   324.0     2,437
+   10   Baltimore city, MD.......    786,775    80.3     9,798
+
+   11   San Antonio city, TX.....    785,880   262.7     2,992
+   12   Indianapolis city, IN *..    700,807   352.0     1,991
+   13   San Francisco city, CA...    678,974    46.4    14,633
+   14   Memphis city, TN *.......    646,356   264.1     2,447
+   15   Washington city, DC......    638,333    62.7    10,181
+   16   Milwaukee city, WI.......    636,212    95.8     6,641
+   17   San Jose city, CA........    629,442   158.0     3,984
+   18   Cleveland city, OH.......    573,822    79.0     7,264
+   19   Columbus city, OH........    564,871   180.9     3,123
+   20   Boston city, MA..........    562,994    47.2    11,928
+
+   21   New Orleans city, LA *...    557,515   199.4     2,796
+   22   Jacksonville city, FL *..    540,920   759.7       712
+   23   Seattle city, WA.........    493,846    83.6     5,907
+   24   Denver city, CO..........    492,365   110.6     4,452
+   25   Nashville-Davidson, TN *.    455,651   479.5       950
+   26   St. Louis city, MO.......    453,085    61.4     7,379
+   27   Kansas City city, MO *...    448,159   316.3     1,417
+   28   El Paso city, TX *.......    425,259   239.2     1,778
+   29   Atlanta city, GA.........    425,022   131.0     3,244
+   30   Pittsburgh city, PA......    423,938    55.4     7,652
+
+   31   Oklahoma City city, OK *.    403,213   603.6       668
+   32   Cincinnati city, OH......    385,457    78.1     4,935
+   33   Fort Worth city, TX......    385,164   240.2     1,604
+   34   Minneapolis city, MN.....    370,951    55.1     6,732
+   35   Portland city, OR........    366,383   103.3     3,547
+   36   Honolulu CDP, HI *.......    365,048    87.0     4,196
+   37   Long Beach city, CA......    361,334    49.8     7,256
+   38   Tulsa city, OK...........    360,919   185.6     1,945
+   39   Buffalo city, NY.........    357,870    41.8     8,561
+   40   Toledo city, OH..........    354,635    84.2     4,212
+
+   41   Miami city, FL...........    346,865    34.3    10,113
+   42   Austin city, TX..........    345,496   116.0     2,978
+   43   Oakland city, CA.........    339,337    53.9     6,296
+   44   Albuquerque city, NM.....    331,767    95.3     3,481
+   45   Tucson city, AZ..........    330,537    98.8     3,346
+   46   Newark city, NJ..........    329,248    24.1    13,662
+   47   Charlotte city, NC.......    314,447   139.7     2,251
+   48   Omaha city, NE...........    314,255    90.9     3,457
+   49   Louisville city, KY......    298,451    60.0     4,974
+   50   Birmingham city, AL......    284,413    98.5     2,887
+
+   51   Wichita city, KS.........    279,272   101.4     2,754
+   52   Sacramento city, CA......    275,741    96.1     2,869
+   53   Tampa city, FL...........    271,523    84.4     3,217
+   54   St. Paul city, MN........    270,230    52.4     5,157
+   55   Norfolk city, VA.........    266,979    53.0     5,037
+   56   Virginia Beach city, VA *    262,199   255.9     1,025
+   57   Rochester city, NY.......    241,741    34.2     7,068
+   58   St. Petersburg city, FL..    238,647    55.5     4,300
+   59   Akron city, OH...........    237,177    57.5     4,125
+   60   Corpus Christi city, TX..    231,999   104.0     2,231
+
+   61   Jersey City city, NJ.....    223,532    13.2    16,934
+   62   Baton Rouge city, LA.....    219,419    61.6     3,562
+   63   Anaheim city, CA.........    219,311    41.7     5,259
+   64   Richmond city, VA........    219,214    60.1     3,647
+   65   Fresno city, CA..........    218,202    65.6     3,326
+   66   Colorado Springs city, CO    215,150   103.4     2,081
+   67   Shreveport city, LA......    205,820    80.9     2,544
+   68   Lexington-Fayette, KY *..    204,165   284.7       717
+   69   Santa Ana city, CA.......    203,713    27.4     7,435
+   70   Dayton city, OH..........    203,371    48.4     4,202
+
+   71   Jackson city, MS.........    202,895   106.2     1,910
+   72   Mobile city, AL..........    200,452   123.0     1,630
+   73   Yonkers city, NY.........    195,351    18.3    10,675
+   74   Des Moines city, IA......    191,003    66.1     2,890
+   75   Grand Rapids city, MI....    181,843    43.4     4,190
+   76   Montgomery city, AL *....    177,857   128.3     1,386
+   77   Knoxville city, TN.......    175,030    77.1     2,270
+   78   Anchorage city, AK *.....    174,431  1732.0       101
+   79   Lubbock city, TX.........    173,979    90.6     1,920
+   80   Fort Wayne city, IN......    172,196    52.6     3,274
+
+   81   Lincoln city, NE.........    171,932    60.0     2,866
+   82   Spokane city, WA.........    171,300    51.7     3,313
+   83   Riverside city, CA.......    170,876    71.8     2,380
+   84   Madison city, WI.........    170,616    53.9     3,165
+   85   Huntington Beach city, CA    170,505    27.2     6,269
+   86   Syracuse city, NY........    170,105    23.8     7,147
+   87   Chattanooga city, TN.....    169,565   123.8     1,370
+   88   Columbus city, GA *......    169,441   217.5       779
+   89   Las Vegas city, NV.......    164,674    55.0     2,994
+   90   Metairie CDP, LA *.......    164,160    23.2     7,076
+
+   91   Salt Lake City city, UT..    163,033    75.2     2,168
+   92   Worcester city, MA.......    161,799    37.4     4,326
+   93   Warren city, MI..........    161,134    34.4     4,684
+   94   Kansas City city, KS.....    161,087   107.4     1,500
+   95   Arlington city, TX.......    160,113    79.1     2,024
+   96   Flint city, MI...........    159,611    32.4     4,926
+   97   Aurora city, CO..........    158,588    59.8     2,652
+   98   Tacoma city, WA..........    158,501    47.7     3,323
+   99   Little Rock city, AR.....    158,461    79.4     1,996
+  100   Providence city, RI......    156,804    18.9     8,297
+--------------------------------------------------------------- 
+
+*See Notes for Individual Places.
