@@ -9,15 +9,3 @@ The really big apple
 
 If my height(6ft) is 1890.7, then the Bill Gates bar is 33mi tall!
 
-<!SLIDE center bullets incremental transition=fade>
-#Popular Coffee
-![eBay's Most Popular Coffee](../images/Coffee.png)
-
-Eye-opening
-
-<!SLIDE center bullets incremental transition=fade>
-#Pretty Pumps
-![eBay's Most Popular Shoes](../images/Shoes.png)
-
-Stay classy eBay!
-
